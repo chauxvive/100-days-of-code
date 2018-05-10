@@ -8,7 +8,9 @@
 
 **Thoughts**: Restarting #100daysofcode so I can track it here. My original attempt was at around 27 days. It's been a very chaotic season with family health but I'm not giving up. I've been using FreeCodeCamp, TeamTreehouse, CodeAcademy, and CodeWars. I've also started going to the New Haven I/O meetups and joined their slack which has been very helpful. C is so far my absolute least favorite language (of Javascript, Python, Ruby, C#, Java, Swift etc.) Hate. Such hate. But it's like Latin, right, I'm not really supposed to like it? Or maybe more like classical greek which I enjoyed even less?
 
-**Links to work:**[Theater Portfolio](http://mpaul.us/)
+**Links to work:**
+1. [Theater Portfolio](http://mpaul.us/)
+2. [CS50 problem set 1](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/CS50%20problems/pset1)
 
 
 
