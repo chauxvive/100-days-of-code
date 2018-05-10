@@ -2,7 +2,7 @@
 
 
 #
-### Day 0: May 9, 2018, Monday
+### Day 0: May 9, 2018, Wednesday
 
 **Today's Progress**: Working on Harvard's CS50. Today was fighting through the first few of problem set one (Hello, Mario). Updated my wordpress theater portfolio with new features. 
 
