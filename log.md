@@ -4,11 +4,11 @@
 #
 ### Day 0: May 9, 2018, Monday
 
-**Today's Progress**: Working on Harvard's CS50. Today was fighting through the first few of problem set one (Hello, Mario). Updated my wordpress theater portfolio 
+**Today's Progress**: Working on Harvard's CS50. Today was fighting through the first few of problem set one (Hello, Mario). Updated my wordpress theater portfolio with new features. 
 
 **Thoughts**: Restarting #100daysofcode so I can track it here. My original attempt was at around 27 days. It's been a very chaotic season with family health but I'm not giving up. I've been using FreeCodeCamp, TeamTreehouse, CodeAcademy, and CodeWars. I've also started going to the New Haven I/O meetups and joined their slack which has been very helpful. C is so far my absolute least favorite language (of Javascript, Python, Ruby, C#, Java, Swift etc.) Hate. Such hate. But it's like Latin, right, I'm not really supposed to like it? Or maybe more like classical greek which I enjoyed even less?
 
-**Link to work:**[Theater Portfolio](http://mpaul.us/)
+**Links to work:**[Theater Portfolio](http://mpaul.us/)
 
 
 
