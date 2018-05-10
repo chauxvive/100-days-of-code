@@ -2,16 +2,33 @@
 
 
 #
+
+### Day 1: May 10, 2018, Thursday
+
+**Today's Progress**: 
+* Updated theater portfolio website with L'Egisto section. 
+* Did Codewars katas. 
+* Improved CS50 Mario to "more" version.
+* Reviewed Markdown conventions and shortcuts
+
+**Thoughts**: Feels good to get back to JavaScript after fooling with Ruby, C#, and C the past few days. Really glad I understand Markdown now. Between that and getting used to Git and terminal, I'm starting to feel more like a "real" developer. Every time I force myself to go to code meetups, I enjoy myself and learn a lot, even if it's outside of my comfort zone. Yesterday I felt very "stuck" on the material I had been learning the past few weeks (AHH why is going from front end JS to back end so hard??) but I sat down and figured out exactly why I felt so stuck, then jotted down actionable goals of what progress would look like and how I could get there. Now I feel like I've had a minor breakthrough. It's amazing how facing your frustrations and fears head-on can help you move past them.
+
+**Links to work:**
+1. [Theater Portfolio](http://mpaul.us/)
+2. [Codewars](https://www.codewars.com/users/chauxvive/completed_solutions)
+3. [CS50 problem set 1](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/CS50%20problems/pset1)
+
 ### Day 0: May 9, 2018, Wednesday
 
 **Today's Progress**: Working on Harvard's CS50. Today was fighting through the first few of problem set one (Hello, Mario). Updated my wordpress theater portfolio with new features. 
 
-**Thoughts**: Restarting #100daysofcode so I can track it here. My original attempt was at around 27 days. It's been a very chaotic season with family health but I'm not giving up. I've been using FreeCodeCamp, TeamTreehouse, CodeAcademy, and CodeWars. I've also started going to the New Haven I/O meetups and joined their slack which has been very helpful. C is so far my absolute least favorite language (of Javascript, Python, Ruby, C#, Java, Swift etc.) Hate. Such hate. But it's like Latin, right, I'm not really supposed to like it? Or maybe more like classical greek which I enjoyed even less?
+**Thoughts**: Restarting #100daysofcode so I can track it here. My original attempt was at around 27 days. It's been a very chaotic season with family health and too many funerals but I'm not giving up. I've been using FreeCodeCamp, TeamTreehouse, CodeAcademy, and CodeWars. I've also started going to the New Haven I/O meetups and joined their slack which has been very helpful.   
+
+C is so far my absolute least favorite language (of Javascript, Python, Ruby, C#, Java, Swift etc.) Hate. Such hate. But it's like Latin, right, I'm not really supposed to like it? Or maybe more like classical greek which I enjoyed even less?
 
 **Links to work:**
 1. [Theater Portfolio](http://mpaul.us/)
 2. [CS50 problem set 1](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/CS50%20problems/pset1)
-
 
 
 [//]: #### Day 0: February 30, 2016 (Example 2)
