@@ -3,13 +3,25 @@
 
 #
 
+### Day 2: May 11, 2018, Friday
+
+**Today's Progress**: 
+* Did the gulp tutorial on TeamTreehouse. Successfully installed windows build tools with powershell.
+* Read about powershell vs cmd and the history of each.
+
+**Thoughts**: Gulp is simple to understand and cool for automating tasks, but I think I need more practice without it to really appreciate what its used for. Hard to believe I was completely unfamiliar with using command line and npm a few weeks ago- now it's the linchpin of most of my work. Had to bring my stepmom home from the hospital and deal with dad today- more than had my hands full. It reminds me why I'm doing this: with dad's cancer, I need to be free when I have to be but still make money. That's why I'm studying as hard and as fast as I can.  
+However, I need to keep my eye on the prize- being a in-depth full stack dev is less important than bringing in money which may mean monetizing simpler front-end things. It means taking the good over the perfect- which means reviewing and practicing WordPress and front end so I can do that quickly and easily (because those gigs are more accessible to new developers.) Tweaking WordPress themes quickly and easily will probably make more money now than having a medium familiarity with creating APIs from scratch.   
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+
 ### Day 1: May 10, 2018, Thursday
 
 **Today's Progress**: 
 * Updated theater portfolio website with L'Egisto section 
 * Did Codewars 7kyu kata
 * Improved CS50 Mario to "more" version
-* Wrote and debugged CS50 Cash 
+* Wrote and debugged CS50 Cash, started Credit 
 * Reviewed Markdown conventions and shortcuts
 * Read up on floating point arithmetic and rounding errors. Gross.
 
