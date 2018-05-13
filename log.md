@@ -3,6 +3,21 @@
 
 #
 
+### Day 3: May 12, 2018, Saturday
+
+**Today's Progress**: 
+* More CodeAcademy on JavaScript. I don't remember the old course being this buggy!
+* Finished Gulp on Treehouse, started Treehouse Express flashcard app with Pug template. Really sailing through here.
+* Sent out three bids to small Upwork projects. 
+* Read up on CRLF/LF endings, "use strict" in JS, and marketing for new devs.
+
+**Thoughts**: Definitely seeing better why Gulp is important today. I can't wait to start building apps and using this stuff. Also excited to get into Express, MongoDB, Angular, React, and Redux. I'm really looking forward to building this flashcard app and customizing it later on. At some point, I need to learn Sass, Canvas, and grid/flexbox/bootstrap better.
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [CodeAcademy Profile](https://www.codecademy.com/chauxvive)
+3. [Flashcard App in progress](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/flashcards)
+
 ### Day 2: May 11, 2018, Friday
 
 **Today's Progress**: 
