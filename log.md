@@ -8,7 +8,7 @@
 **Today's Progress**: 
 * Continued work on Flashcards app. Sent/read my first username cookies, did route handling, error handling, and played with lots of middleware with Express. 
 
-**Thoughts**: Excited to start sending cookies and reading states. Understanding all of this much better than my first API interactions with JSON. I guess it's all in the context.
+**Thoughts**: Excited to start sending cookies and reading states. Unlike my early interactions with node and JSON, I can say I really get this stuff the first time around and find myself in a state of flow where hours fly by unnoticed. I am eager to finish the Treehouse Full Stack track. So close at this point!
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
