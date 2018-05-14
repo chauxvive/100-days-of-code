@@ -6,12 +6,12 @@
 ### Day 5: May 13, 2018, Monday
 
 **Today's Progress**: 
- * _Continued work on Flashcards app:_ 
-  * error-corrected /cards route 
-  * worked with modular parameters
-  * fleshed out the question/answer sides
-  * made random path through card data
-  * learned how to serve static assets in Express
+ * Continued work on Flashcards app:
+   * error-corrected /cards route 
+   * worked with modular parameters
+   * fleshed out the question/answer sides
+   * made random path through card data
+   * learned how to serve static assets in Express
 
 **Thoughts**: Really fought this morning on error-checking "unidentified" problems with my /cards route. Turned out it was a hard-to-spot spacing error on the pug file! Definitely going to keep in mind that's an easy error to make with pug. Not sure I'm sold on pug's "easy" syntax yet, although templating is something I have used before with the costume website project. That made updates considerably easier years later, though I didn't know much at the time. This stuff is complicated and with many interconnected parts- chasing errors is taking a LOT more time than I am used to. It's honestly pretty frustrating.  
 
