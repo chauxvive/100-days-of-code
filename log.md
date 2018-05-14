@@ -3,6 +3,18 @@
 
 #
 
+### Day 4: May 12, 2018, Sunday
+
+**Today's Progress**: 
+* Continued work on Flashcards app. Sent/read my first username cookies, did route handling, error handling, and played with lots of middleware with Express. 
+
+**Thoughts**: Excited to start sending cookies and reading states. Understanding all of this much better than my first API interactions with JSON. I guess it's all in the context.
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [Flashcard App in progress](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/flashcards)
+
+
 ### Day 3: May 12, 2018, Saturday
 
 **Today's Progress**: 
