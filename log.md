@@ -3,10 +3,28 @@
 
 #
 
+### Day 5: May 13, 2018, Monday
+
+**Today's Progress**: 
+ * _Continued work on Flashcards app:_ 
+  * error-corrected /cards route 
+  * worked with modular parameters
+  * fleshed out the question/answer sides
+  * made random path through card data
+  * learned how to serve static assets in Express
+
+**Thoughts**: Really fought this morning on error-checking "unidentified" problems with my /cards route. Turned out it was a hard-to-spot spacing error on the pug file! Definitely going to keep in mind that's an easy error to make with pug. Not sure I'm sold on pug's "easy" syntax yet, although templating is something I have used before with the costume website project. That made updates considerably easier years later, though I didn't know much at the time. This stuff is complicated and with many interconnected parts- chasing errors is taking a LOT more time than I am used to. It's honestly pretty frustrating.  
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [Flashcard App in progress](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/flashcards)
+3. [Virtual Costume Museum](http://costume-museum.usitt.org/HistoricalCollection/)
+
+
 ### Day 4: May 12, 2018, Sunday
 
 **Today's Progress**: 
-* Continued work on Flashcards app. Sent/read my first username cookies, did route handling, error handling, and played with lots of middleware with Express. 
+* Continued work on Flashcards app. Sent/read my first username cookies, did route handling, error handling, and played with lots of middleware with Express. Can't wait to start working with databases.
 * Read up on closures
 
 **Thoughts**: Excited to start sending cookies and reading states. Unlike my early interactions with node and JSON, I can say I really get this stuff the first time around and find myself in a state of flow where hours fly by unnoticed. I am eager to finish the Treehouse Full Stack track. So close at this point!
@@ -74,24 +92,3 @@ C is so far my absolute least favorite language (of Javascript, Python, Ruby, C#
 **Links to work:**
 1. [Theater Portfolio](http://mpaul.us/)
 2. [CS50 problem set 1](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/CS50%20problems/pset1)
-
-
-[//]: #### Day 0: February 30, 2016 (Example 2)
-[//]: ###### (delete me or comment me out)
-
-[//]: #**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-[//]: #**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-[//]: #**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-[//]: #### Day 1: June 27, Monday
-
-[//]: #**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-[//]: #**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-[//]: #**Link(s) to work**
-[//]: #1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-[//]: #2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
