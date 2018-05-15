@@ -12,6 +12,7 @@
    * fleshed out the question/answer sides
    * made random path through card data
    * learned how to serve static assets in Express
+  * Installed and started using MongoDB   
 
 **Thoughts**: Finally finished the Express course! Still need to finish cleaning up the app for the last step, but glad I got through all the videos. First thing this morning, I really fought on error-checking "unidentified" problems with my /cards route. Turned out it was a hard-to-spot spacing error on the pug file! Definitely going to keep in mind that's an easy error to make with pug. Not sure I'm sold on pug's "easy" syntax yet, although templating is something I have used before with the costume website project. That made updates considerably easier years later, though I didn't know much at the time. This stuff is complicated and with many interconnected parts- chasing errors is taking a LOT more time than I am used to. I also think the last video sailed through an awful lot in a brief time. Chalkley courses tend to do that, but overall this course was much easier to follow than his others.
 
