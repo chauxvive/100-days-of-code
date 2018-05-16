@@ -8,14 +8,13 @@
 **Today's Progress**: 
 * ACTUALLY installed mongodb, since I realized I had not really done so last time
 * Read up on windows permissions (no sudo for me, I see)
-* Got through half of the mongo course. +1 for "poutine authentic chillwave"- I think these demo blog posts were just deep sourced from Portlandia episodes.
+* Got through over half of the treehouse mongo course. +1 for "poutine authentic chillwave"- I think these demo blog posts were just deep sourced from Portlandia episodes.
 
 **Thoughts**: Definitely fighting with Windows this morning! Looking forward to more databases. Is that weird? That seems weird.
 
 
 **Links to work:**
-1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
-2. [Flashcard App in progress](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/flashcards)
+1. (unfortunately nothing to see here. How about checking out [my portfolio?](http://mpaulcodes.com/)
 
 ### Day 5: May 13, 2018, Monday
 
