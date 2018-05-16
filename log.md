@@ -7,7 +7,7 @@
 
 **Today's Progress**: 
 * ACTUALLY installed mongodb, since I realized I had not really done so last time
-* Read up on windows permissions (no sudo for me, I see)
+* Read up on windows permissions (no sudo for me, I see. And no mongo-hacker either!)
 * Got through over half of the treehouse mongo course. +1 for "poutine authentic chillwave"- I think these demo blog posts were just deep sourced from Portlandia episodes.
 * MADE IT. MADE IT THROUGH THE MONGODB COURSE. Hot diggity. 
 
