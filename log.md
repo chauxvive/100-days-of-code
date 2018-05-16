@@ -3,6 +3,18 @@
 
 #
 
+### Day 7: May 13, 2018, Wednesday
+
+**Today's Progress**: 
+* Working through the JS authentication and authorization with Mongo and Express (Treehouse) 
+
+**Thoughts**: Feeling tired and a little burned out today. I'm really crunching to get through the full-stack track on Treehouse, for better and worse. Afterwards, I'm not sure if I'm going to go through WordPress on treehouse to make faster freelancing money or go back to FreeCodeCamp or what.
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [FreeCodeCamp Profile](https://www.freecodecamp.org/chauxvive)
+
+
 ### Day 6: May 12, 2018, Tuesday
 
 **Today's Progress**: 
