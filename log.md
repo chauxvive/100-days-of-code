@@ -7,8 +7,11 @@
 
 **Today's Progress**: 
 * Working through the JS authentication and authorization with Mongo and Express (Treehouse) 
+  * made a registration page in pug and routed with Express, set up nodemon for server refreshing
+  * started with Mongoose, created routes to a from registration into mongo
+  * used bcrypt to salt and hash passwords before saving to db (kinda important. just a bit.)
 
-**Thoughts**: Feeling tired and a little burned out today. I'm really crunching to get through the full-stack track on Treehouse, for better and worse. Afterwards, I'm not sure if I'm going to go through WordPress on treehouse to make faster freelancing money or go back to FreeCodeCamp or what.
+**Thoughts**: Feeling tired and a little burned out today. I'm really crunching to get through the full-stack track on Treehouse, for better and worse. Afterwards, I'm not sure if I'm going to go through WordPress on treehouse to make faster freelancing money or go back to FreeCodeCamp or what. On the other hand, the stuff we're making in Treehouse is really cool.
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
