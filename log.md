@@ -2,6 +2,19 @@
 
 
 #
+### Day 8: May 13, 2018, Thursday
+
+**Today's Progress**: 
+* Still working through the JS authentication and authorization with Mongo and Express (Treehouse) 
+* Great JavaScript-focused meetup with NewHavenIO - so excited that one talk focused on stuff I wouldn't have understood at all last week and could completely follow today (using websockets to make a SlackBot.) 
+
+**Thoughts**: Much shorter day today- Worked until about 2 last night, then had to leave at 7 to take dad to the hospital for his operation tomorrow, then was at the hospital until 3. Face-planted into a nap until the meetup, and then boardgame meetup (I played a round then returned to my coding.) I felt really dispirited yesterday, but again, seeing the problems from all kinds of new angles today. I started brainstorming app ideas - my goal is to come up with 100 in a day or two (currently at 14). Idea-storming is a good practice: the sheer volume means you shut up your inner critique enough to come up with more creative ideas (skimmed from James Altucher.)
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [FreeCodeCamp Profile](https://www.freecodecamp.org/chauxvive)
+3. [New Haven.IO](http://newhaven.io/)
+
 
 ### Day 7: May 13, 2018, Wednesday
 
