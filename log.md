@@ -21,7 +21,7 @@
 **Today's Progress**: 
 * Brainstorming apps all the time now
 * Spent some time journaling and planning about next steps- meeting Tuesday with a graphic designer friend and and business consultant friend on Tuesday to see if we can come up with a package to offer the game shop. Pretty excited about this idea. This could be a very powerful value-add. 
-* Followed up on the offer of "hanging out" at Checkmate (a development agency) next week, asked a JS mentor for book recommendations, listened to code podcasts, and thought about how I might offer photography for the bare walls of the coworking space.
+* Followed up on the offer of "hanging out" at Checkmate (a development agency) next week, asked a JS mentor for book recommendations, listened to code podcasts, and thought about how I might offer photography for the bare walls of the coworking space. Considering volunteering with the "Real Food" project. 
 
 **Thoughts**: Today I was up at 7:30 to visit dad before his operation, waited with him (as the doctors and chaplin came in, ugh,) and then occupied myself with "TrollHunter" episodes until he was out of recovery. I was a nervous wreck until he came back at 3:30, honestly, couldn't do anything else. Ever since he was diagnosed with the cancer, I've been hyper aware that I very well may lose him soon. Some days it's ok and some days it's harder. After I got him settled (about 4) I could relax enough to get myself some food, and after another visit, went home to have wine and celebrate him surviving another day.   
 
