@@ -6,12 +6,15 @@
 ### Day 10: May 13, 2018, Saturday
 
 **Today's Progress**: 
-* Still working through the JS authentication and authorization with Mongo and Express (Treehouse) 
+* Still working through the JS authentication and authorization with Mongo and Express (Treehouse)
+  * using express-session to store and track logins
+  * creating a login form and route
 
-**Thoughts**: I love that I understand so much now.
+**Thoughts**: I love that I understand so much of this now. The components I'm learning to build will be helpful in so many projects. Brian was playing "Shooglenifty" this grey morning and I am missing Ireland bigtime.
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [JS authorization and authentication with Express book app](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/JS%20authentication%20with%20express)
 
 ### Day 9: May 13, 2018, Friday
 
