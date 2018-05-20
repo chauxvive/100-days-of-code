@@ -3,12 +3,27 @@
 
 #
 
-### Day 10: May 13, 2018, Saturday
+### Day 11: May 20, 2018, Sunday
+
+**Today's Progress**: 
+* Finishing up JS authentication and authorization with Mongo and Express (Treehouse)
+  * using logic to display certain pages to users and change nav bar if user is logged in
+
+**Thoughts**: Got home from work last night (2:30am) with a bad fever. Taking it very easy today and trying to sleep as much as possible. Dad can go home from the hospital tomorrow at 10.
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [JS authorization and authentication with Express book app](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/JS%20authentication%20with%20express)
+
+### Day 10: May 19, 2018, Saturday
 
 **Today's Progress**: 
 * Still working through the JS authentication and authorization with Mongo and Express (Treehouse)
   * using express-session to store and track logins
-  * creating a login form and route
+  * creating a login form and route with error catching
+  * fixed bugs
+  * One more set of videos in this project to go!
+* Spent more time brainstorming apps. Up to 54/100 ideas, many of which I'm excited about. Many of these are apps I really could use, and several are so specialized I'm sure they don't exist. Working on these will give me the practice and portfolio of independent projects I need.  
 
 **Thoughts**: I love that I understand so much of this now. The components I'm learning to build will be helpful in so many projects. Brian was playing "Shooglenifty" this grey morning and I am missing Ireland bigtime.
 
@@ -16,7 +31,7 @@
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
 2. [JS authorization and authentication with Express book app](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/JS%20authentication%20with%20express)
 
-### Day 9: May 13, 2018, Friday
+### Day 9: May 18, 2018, Friday
 
 **Today's Progress**: 
 * Brainstorming apps all the time now
@@ -30,7 +45,7 @@ I'm not ashamed that I didn't code, but I am happy that I still pushed my "code 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
 
-### Day 8: May 13, 2018, Thursday
+### Day 8: May 17, 2018, Thursday
 
 **Today's Progress**: 
 * Still working through the JS authentication and authorization with Mongo and Express (Treehouse) 
@@ -44,7 +59,7 @@ I'm not ashamed that I didn't code, but I am happy that I still pushed my "code 
 3. [New Haven.IO](http://newhaven.io/)
 
 
-### Day 7: May 13, 2018, Wednesday
+### Day 7: May 16, 2018, Wednesday
 
 **Today's Progress**: 
 * Working through the JS authentication and authorization with Mongo and Express (Treehouse) 
@@ -59,7 +74,7 @@ I'm not ashamed that I didn't code, but I am happy that I still pushed my "code 
 2. [FreeCodeCamp Profile](https://www.freecodecamp.org/chauxvive)
 
 
-### Day 6: May 12, 2018, Tuesday
+### Day 6: May 15, 2018, Tuesday
 
 **Today's Progress**: 
 * ACTUALLY installed mongodb, since I realized I had not really done so last time
@@ -73,7 +88,7 @@ I'm not ashamed that I didn't code, but I am happy that I still pushed my "code 
 **Links to work:**
 1. (unfortunately nothing to see here. How about checking out [my portfolio?](http://mpaulcodes.com/)
 
-### Day 5: May 13, 2018, Monday
+### Day 5: May 14, 2018, Monday
 
 **Today's Progress**: 
  * Continued work on Flashcards app:
@@ -92,7 +107,7 @@ I'm not ashamed that I didn't code, but I am happy that I still pushed my "code 
 3. [Virtual Costume Museum](http://costume-museum.usitt.org/HistoricalCollection/)
 
 
-### Day 4: May 12, 2018, Sunday
+### Day 4: May 13, 2018, Sunday
 
 **Today's Progress**: 
 * Continued work on Flashcards app. Sent/read my first username cookies, did route handling, error handling, and played with lots of middleware with Express. Can't wait to start working with databases.
