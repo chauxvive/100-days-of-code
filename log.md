@@ -7,7 +7,9 @@
 
 **Today's Progress**: 
 * Continuing building a REST API on treehouse
- * using Postman to test GET and POST requests.
+   * using Postman to test GET and POST requests.
+   * practice creating database queries in Mongoose
+   * completed 3/5 sections on this project
 
 **Thoughts**: Dad isn't coming home today after all- some kind of bacteria they found in his foot. Working on code before I go visit him- he's so disappointed. I'm glad to be using Git consistently but I know there are ways I'm doing things inefficiently. I'll get there eventually. I also notice that several months of coding every free second is taking its toll on my body. I've got to balance learning as hard and fast as I can with the rest of my life, ha, things like working out, spending time in the sun, staying married, cooking and eating good food and -gulp- laundry. Every once and a while, I need to sit and read something irrelevant or watch netflix, because being burned out will not actually help this process.
 
