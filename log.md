@@ -16,7 +16,7 @@
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
-2. [JS authorization and authentication with Express book app](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/JS%20authentication%20with%20express)
+2. [Creating a REST API with Mongoose](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/RESTful)
 
 ### Day 11: May 20, 2018, Sunday
 
