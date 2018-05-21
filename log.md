@@ -3,13 +3,29 @@
 
 #
 
+### Day 12: May 21, 2018, Monday
+
+**Today's Progress**: 
+* Continuing building a REST API on treehouse
+ * using Postman to test GET and POST requests.
+
+**Thoughts**: Dad isn't coming home today after all- some kind of bacteria they found in his foot. Working on code before I go visit him- he's so disappointed. I'm glad to be using Git consistently but I know there are ways I'm doing things inefficiently. I'll get there eventually. I also notice that several months of coding every free second is taking its toll on my body. I've got to balance learning as hard and fast as I can with the rest of my life, ha, things like working out, spending time in the sun, staying married, cooking and eating good food and -gulp- laundry. Every once and a while, I need to sit and read something irrelevant or watch netflix, because being burned out will not actually help this process.
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [JS authorization and authentication with Express book app](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/JS%20authentication%20with%20express)
+
 ### Day 11: May 20, 2018, Sunday
 
 **Today's Progress**: 
-* Finishing up JS authentication and authorization with Mongo and Express (Treehouse)
-  * using logic to display certain pages to users and change nav bar if user is logged in
+* Finished JS authentication and authorization with Mongo and Express (Treehouse)!
+  * using template logic to display certain pages to users and change nav bar if user is logged in
+  * using custom middleware to determine and restrict authorized areas of the site
+* Started REST API building course (Treehouse)
+* Researched wireframing tools, job descriptions, and bootcamps
 
-**Thoughts**: Got home from work last night (2:30am) with a bad fever. Taking it very easy today and trying to sleep as much as possible. Dad can go home from the hospital tomorrow at 10.
+**Thoughts**: Got home from work last night (2:30am) with a bad fever. Taking it very easy today and trying to sleep as much as possible. Dad can go home from the hospital tomorrow at 10. I'm so close to the end of the full-stack track on Treehouse! 
+Update: REST is another Chalkley course. He is by far my least favorite treehouse teacher. His material is great but I'm always getting lost! 
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
