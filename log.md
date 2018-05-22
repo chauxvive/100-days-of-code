@@ -3,6 +3,19 @@
 
 #
 
+### Day 13: May 22, 2018, Tuesday
+
+**Today's Progress**: 
+* Continued building a REST API on treehouse
+   
+**Thoughts**: Dad is STILL stuck at the hospital. They need to make sure they have the dosage of his antibiotics right so it won't overtax his kidneys. I'm not sure how I'm going to get him home tomorrow- the XCite women's tech conference is in Stamford and I was going to go. 
+
+I've figured out exactly why I dislike Chalkley classes- he'll do like a 20 minute video with all kinds of different adds and no testing until the very end. This means if any facet doesn't work, you have serious digging to do. For example, I just realized over half my Postman routes aren't working and I'm definitely going to go take a coffee break before I throw something. 
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [Creating a REST API with Mongoose](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/RESTful)
+
 ### Day 12: May 21, 2018, Monday
 
 **Today's Progress**: 
@@ -44,7 +57,7 @@ Update: REST is another Chalkley course. He is by far my least favorite treehous
   * One more set of videos in this project to go!
 * Spent more time brainstorming apps. Up to 54/100 ideas, many of which I'm excited about. Many of these are apps I really could use, and several are so specialized I'm sure they don't exist. Working on these will give me the practice and portfolio of independent projects I need.  
 
-**Thoughts**: I love that I understand so much of this now. The components I'm learning to build will be helpful in so many projects. Brian was playing "Shooglenifty" this grey morning and I am missing Ireland bigtime.
+**Thoughts**: I love that I understand so much of this now. The components I'm learning to build will be helpful in so many projects. Brian was playing "Shooglenifty" this grey morning and I am missing Ireland big-time.
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
