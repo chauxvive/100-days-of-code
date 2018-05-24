@@ -29,6 +29,7 @@
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
 2. [Creating a REST API with Mongoose](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/RESTful)
+3. [XCite women in technology, innovation, and entrepreneurship](https://xcite.business.uconn.edu/)
 
 ### Day 13: May 22, 2018, Tuesday
 
