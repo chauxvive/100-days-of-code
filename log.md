@@ -2,13 +2,40 @@
 
 
 #
+### Day 15: May 24, 2018, Thursday
+
+**Today's Progress**: 
+* Debugging REST API routes
+* Completed 1/4 blocks of JavaScript Testing (Treehouse) learning about Mocha and BDD
+   
+**Thoughts**: SO HAPPY this last course in my track is Gil. Also excited about learning testing which is going to fill in a lot of gaps. After I complete this, I'll go back and wrap up the few projects I didn't fully debug. Surprise surprise, three Chalkley projects: Command Line Weather, Flashcards project, and the Rest API project which has errors in the routes I have to figure out. I got up early to do a bit before hitting the gym and picking up dad at the hospital. I am also supposed to go to Checkmate today to "hang out and see the office," so hopefully I can get dad home sooner rather than later and get down New Haven! 
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+
+
+### Day 14: May 23, 2018, Wednesday
+
+**Today's Progress**: 
+* Troubleshooting REST API routes on Treehouse. Still in progress.
+* XCite women in entrepreneurship, tech, and innovation conference today in Stamford
+* Brushing up on my javascript history and know-how with Treehouse "The Landscape of JavaScript"
+* Starting "Beginning React" in Treehouse
+* Reading up on linters, "Prettier", Mocha, and GraphQL
+* Short brainstorming session with graphic designer friend about working together
+   
+**Thoughts**: I went to the XCite women in Entrepreneurship, Technology, and Innovation convention in Stamford today. Unfortunately, of course, then they said dad could go home... Except that in trying to arrange a ride for him (and explaining that I couldn't get there before 3:00) his anxiety amped his blood pressure so high that when I got there they couldn't release him after all (222! jesus.) I promised I would be there first thing tomorrow and we'd watch Netflix until he's released. The conference was ok- not as code helpful as I would have hoped, but I still found more local resources and talking to someone from the CT small business association got my brain going about doing more social media and SEO consulting. It would really be great it I could start making cash so I could have the option of a bootcamp to do this a bit faster/more efficiently. This "Landscape of JavaScript" course is really cool!
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [Creating a REST API with Mongoose](https://github.com/chauxvive/100DaysOfCodeProjects/tree/master/RESTful)
 
 ### Day 13: May 22, 2018, Tuesday
 
 **Today's Progress**: 
 * Continued building a REST API on treehouse
    
-**Thoughts**: Dad is STILL stuck at the hospital. They need to make sure they have the dosage of his antibiotics right so it won't overtax his kidneys. I'm not sure how I'm going to get him home tomorrow- the XCite women's tech conference is in Stamford and I was going to go. 
+**Thoughts**: Slow, wet, grim day today. Dad is still stuck at the hospital. They need to make sure they have the dosage of his antibiotics right so it won't overtax his kidneys. I'm not sure how I'm going to get him home tomorrow- the XCite women's tech conference is in Stamford and I was going to go. 
 
 I've figured out exactly why I dislike Chalkley classes- he'll do like a 20 minute video with all kinds of different adds and no testing until the very end. This means if any facet doesn't work, you have serious digging to do. For example, I just realized over half my Postman routes aren't working and I'm definitely going to go take a coffee break before I throw something. 
 
