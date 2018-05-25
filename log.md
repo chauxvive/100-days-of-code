@@ -2,11 +2,25 @@
 
 
 #
+
+### Day 16: May 25, 2018, Friday
+
+**Today's Progress**: 
+* Understanding Promises in JavaScript (Treehouse)
+* Answered my first question in the Treehouse forums. I want to give back to the community and show my competance by doing more of this both on Treehouse and StackOverflow. Plus, I'll practice troubleshooting other people's code and check my own understanding.
+   
+**Thoughts**: I finally got dad home yesterday! Today is a truly beautiful day so I will not be coding as long as usual. 
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+
+
 ### Day 15: May 24, 2018, Thursday
 
 **Today's Progress**: 
 * Debugging REST API routes
 * Completed 1/4 blocks of JavaScript Testing (Treehouse) learning about Mocha and BDD
+* FIELD TRIP: Coding hang out at Checkmate Digital
    
 **Thoughts**: SO HAPPY this last course in my track is Gil. Also excited about learning testing which is going to fill in a lot of gaps. After I complete this, I'll go back and wrap up the few projects I didn't fully debug. Surprise surprise, three Chalkley projects: Command Line Weather, Flashcards project, and the Rest API project which has errors in the routes I have to figure out. I got up early to do a bit before hitting the gym and picking up dad at the hospital. I am also supposed to go to Checkmate today to "hang out and see the office," so hopefully I can get dad home sooner rather than later and get down New Haven! 
 
@@ -18,7 +32,7 @@
 
 **Today's Progress**: 
 * Troubleshooting REST API routes on Treehouse. Still in progress.
-* XCite women in entrepreneurship, tech, and innovation conference today in Stamford
+* FIELD TRIP XCite women in entrepreneurship, tech, and innovation conference today in Stamford
 * Brushing up on my javascript history and know-how with Treehouse "The Landscape of JavaScript"
 * Starting "Beginning React" in Treehouse
 * Reading up on linters, "Prettier", Mocha, and GraphQL
