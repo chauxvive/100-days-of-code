@@ -3,6 +3,39 @@
 
 #
 
+### Day 19: May 28, 2018, Monday
+
+**Today's Progress**: 
+* More unit testing in Mocha and Chai
+* Videos on React and Vue
+* Learned the hard reminder to commit often- lost three days of notes because I had forgotten to git commit. Bummer!
+
+**Thoughts**: Fighting with internet and windows updates makes getting through exercises slow and painful. Will have to get up early tomorrow to code before work since I just found out I'm going in. Saw "Solo". 
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+
+### Day 18: May 27, 2018, Sunday
+
+**Today's Progress**: 
+* More testing in Mocha and Chai
+* Read Vue and Chai documentation
+
+**Thoughts**: Coded on the train on the way to NYC to see a my friend's show. 260 performances on Broadway. 
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+
+### Day 17: May 26, 2018, Saturday
+
+**Today's Progress**: 
+* Building and testing a battleship game engine with BDD and testing it with Mocha and Chai (treehouse)
+
+**Thoughts**: Starting the day coding outside in the hammock- truly a great day. Sailing with Jenn.
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+
 ### Day 16: May 25, 2018, Friday
 
 **Today's Progress**: 
