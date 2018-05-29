@@ -3,6 +3,17 @@
 
 #
 
+### Day 20: May 29, 2018, Tuesday
+
+**Today's Progress**: 
+* Completed section on application security (treehouse)
+
+**Thoughts**: Working 9-5:30 today. Coding on breaks and after work.
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+
+
 ### Day 19: May 28, 2018, Monday
 
 **Today's Progress**: 
@@ -12,6 +23,7 @@
    * learned about stubs and mocks
    * learned about cross origin resource sharing
 * Videos on React and Vue
+* Intro to Application Security (treehouse)
 * Learned the hard reminder to commit often- lost three days of notes because I had forgotten to git commit this log. Bummer!
 * 235 Twitter followers. Social Media is pretty simple when you get the hang of it. If I want more, I know what to do. I put my Instagram account down when I started coding full-time and I've only lost around a hundred followers of my 1200, even though I've posted nothing since February. I look forward to picking that up again some day when I'm not as code-driven.
 
