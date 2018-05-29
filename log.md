@@ -6,11 +6,16 @@
 ### Day 19: May 28, 2018, Monday
 
 **Today's Progress**: 
-* More unit testing in Mocha and Chai (3/4 parts complete)
+* _COMPLETED THE FULL-STACK JAVASCRIPT TRACK ON TREEHOUSE_. whoa.
+* Completed unit testing in Mocha and Chai
+   * learned about mocha --watch and mocha reporting options.
+   * learned about stubs and mocks
+   * learned about cross origin resource sharing
 * Videos on React and Vue
 * Learned the hard reminder to commit often- lost three days of notes because I had forgotten to git commit this log. Bummer!
+* 235 Twitter followers. Social Media is pretty simple when you get the hang of it. If I want more, I know what to do. I put my Instagram account down when I started coding full-time and I've only lost around a hundred followers of my 1200, even though I've posted nothing since February. I look forward to picking that up again some day when I'm not as code-driven.
 
-**Thoughts**: Fighting with internet and windows updates makes getting through exercises slow and painful. Will have to get up early tomorrow to code before work since I just found out I'm going in. Saw "Solo". 
+**Thoughts**: Fighting with internet and windows updates makes getting through exercises slow and painful. Will have to get up early tomorrow to code before work since I just found out I'm going in. Saw "Solo". Finally completed the full-stack track, although I have to come back and fix a few projects in there to really finish up properly.
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
@@ -30,6 +35,7 @@
 
 **Today's Progress**: 
 * Building and testing a battleship game engine with BDD and testing it with Mocha and Chai (treehouse)
+* Decided I should pick up my Twitter game. Looking to get to >200 from ~150.
 
 **Thoughts**: Starting the day coding outside in the hammock- truly a great day. Sailing with Jenn.
 
