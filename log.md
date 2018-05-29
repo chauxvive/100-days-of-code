@@ -6,9 +6,9 @@
 ### Day 19: May 28, 2018, Monday
 
 **Today's Progress**: 
-* More unit testing in Mocha and Chai
+* More unit testing in Mocha and Chai (3/4 parts complete)
 * Videos on React and Vue
-* Learned the hard reminder to commit often- lost three days of notes because I had forgotten to git commit. Bummer!
+* Learned the hard reminder to commit often- lost three days of notes because I had forgotten to git commit this log. Bummer!
 
 **Thoughts**: Fighting with internet and windows updates makes getting through exercises slow and painful. Will have to get up early tomorrow to code before work since I just found out I'm going in. Saw "Solo". 
 
