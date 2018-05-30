@@ -16,7 +16,7 @@
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
-2. [USITT Virtual Costume Museum](http://costume-museum.usitt.org/)
+2. [USITT Virtual Costume Museum](http://costume-museum.usitt.org/HistoricalCollection/)
 
 
 ### Day 19: May 28, 2018, Monday
