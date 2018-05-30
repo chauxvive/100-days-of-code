@@ -6,12 +6,17 @@
 ### Day 20: May 29, 2018, Tuesday
 
 **Today's Progress**: 
+* Started work on React Basics (Treehouse)
+  * Installed React dev tools, learned about properties
 * Completed section on application security (treehouse)
+* Signed up for 30 days 30 sites prompts and joined community. Looks promising. Hopefully this will give me the front-end bump I need.
+* Had a quick phone chat about the costume site. If that project gets signed off with the new ownership, it's going to mean an enormous check. There's so much I could do to update the site with the best practices I know now (I built it 4 years ago and was learning as I went.) It would be awesome if I could convince them to have me do Social Media as well. It is SUCH a cool project but I've done far too much unpaid work on the project as it is. No more until the contract is approved!
 
-**Thoughts**: Working 9-5:30 today. Coding on breaks and after work.
+**Thoughts**: Working 9-5:30 today. Coding on breaks and after work. Surprise! Working 9-5:30 the rest of the week. On the down side, that means I can't take the boating license course this week. On the up side, more money for our upcoming Tulum trip and that means I can go to code meetups in the evening instead. Honestly, one of the things I'm most looking forward to with Tulum is checking out the digital nomad community there and seeing what that life is like. Definitely my dream to be able to code and travel!
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2. [USITT Virtual Costume Museum](http://costume-museum.usitt.org/)
 
 
 ### Day 19: May 28, 2018, Monday
