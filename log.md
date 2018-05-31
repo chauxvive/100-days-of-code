@@ -12,7 +12,7 @@
 **Thoughts**: Working 9-5:30 today, meetup tonight at 6. I'm so bushed- I feel like I've been underslept and with a migraine off and on for days. Migraines make it hard to look at a screen or think straight.
 
 **Links to work:**
-1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)  
 2.[Project Euler](https://projecteuler.net/progress) (User Name: Chauxvive, 8 problems completed)
 
 ### Day 21: May 30, 2018, Wednesday
