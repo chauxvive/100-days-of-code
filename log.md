@@ -3,6 +3,33 @@
 
 #
 
+### Day 22: May 31, 2018, Thursday
+
+**Today's Progress**: 
+* Reviewing a little python today in prep for the python meetup tonight. Python was one of my first languages but it's been a while now. When I first started coding, I played with Project Euler and HackThisSite.
+* Python Basics (treehouse)
+
+**Thoughts**: Working 9-5:30 today, meetup tonight at 6. I'm so bushed- I feel like I've been underslept and with a migraine off and on for days. Migraines make it hard to look at a screen or think straight.
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+2.[Project Euler](https://projecteuler.net/progress) (User Name: Chauxvive, 8 problems completed)
+
+### Day 21: May 30, 2018, Wednesday
+
+**Today's Progress**: 
+* 30 Days 30 sites
+ * tempted to cheat and post the portfolio I made for FreeCodeCamp. I will post that- then I'll make a second different site later if I have the time. I definitely need to put them all on Git so I have a better streak.
+* Back to React Basics on Treehouse. I plan on learning Angular, Express, and React but also eventually want to touch on others like Ember, Apollo, Meteor, etc.
+
+
+**Thoughts**: Working 9-5:30 today, concert 7-10. Time is really flying by. I can't believe I'm already on day 22 (started at 0) of 100 of my reboot.
+
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+
+
 ### Day 20: May 29, 2018, Tuesday
 
 **Today's Progress**: 
@@ -14,7 +41,7 @@
 * Signed up for 30 days 30 sites prompts and joined community. Looks promising. Hopefully this will give me the front-end bump I need.
 * Had a quick phone chat about the costume site. If that project gets signed off with the new ownership, it's going to mean an enormous check. There's so much I could do to update the site with the best practices I know now (I built it 4 years ago and was learning as I went.) It would be awesome if I could convince them to have me do Social Media as well. It is SUCH a cool project but I've done far too much unpaid work on the project as it is. No more until the contract is approved! Reading Elon Musk biography.
 
-**Thoughts**: Working 9-5:30 today. Coding on breaks and after work. Surprise! Working 9-5:30 the rest of the week. On the down side, that means I can't take the boating license course this week. On the up side, more money for our upcoming Tulum trip and that means I can go to code meetups in the evening instead. Honestly, one of the things I'm most looking forward to with Tulum is checking out the digital nomad community there and seeing what that life is like. Definitely my dream to be able to code and travel!
+**Thoughts**: Working 9-6 today. Coding on breaks and after work. Surprise! Working 9-5:30 the rest of the week. On the down side, that means I can't take the boating license course this week. On the up side, more money for our upcoming Tulum trip and that means I can go to code meetups in the evening instead. Honestly, one of the things I'm most looking forward to with Tulum is checking out the digital nomad community there and seeing what that life is like. Definitely my dream to be able to code and travel!
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
