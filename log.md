@@ -2,18 +2,34 @@
 
 
 #
+### Day 23: June 1st, 2018, Monday
+
+**Today's Progress**: 
+* Rocking my way through the new FreeCodeCamp- Wow, such huge changes! 
+ * completed basic html/html 5, basic css, applied visual design, applied accessibility, and responsive web design principles. 
+
+**Thoughts**: Working 9-5 today. This is my birthday weekend!
+
+**Links to work:**
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
 
 ### Day 22: May 31, 2018, Thursday
 
 **Today's Progress**: 
 * Reviewing a little python today in prep for the python meetup tonight. Python was one of my first languages but it's been a while now. When I first started coding, I played with Project Euler and HackThisSite.
 * Python Basics (treehouse)
+* FIELD TRIP: Python meetup in New Haven.
+* Checking out the new FreeCodeCamp- wow, those are serious changes. We'll see what I think of them. I definitely agree with some of the adds, as I had felt pretty overwhelmed when the first projects came up when I started.
+* Happily filling in new bits of FCC to catch back up. Lots of great new material.
 
-**Thoughts**: Working 9-5:30 today, meetup tonight at 6. I'm so bushed- I feel like I've been underslept and with a migraine off and on for days. Migraines make it hard to look at a screen or think straight.
+**Thoughts**: Working 9-5:30 today, meetup tonight at 6. I'm so bushed- I feel like I've been underslept and with a migraine off and on for days. Plus, migraines make it hard to look at a screen or think straight. Python has so many fun things - Django, PyCharms, Jypiter. I am starting to remember why I liked it so much when I was starting out. It was a good first language to play with. Some of this was over my head, but some of it was great. I definitely remember more than I thought I did. 
+
+Already found bugs in the new FCC- several "lessons" can't be completed, meaning full sections can't be closed. As someone who lives to check things off lists, this drives me nuts.
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)  
 2.[Project Euler](https://projecteuler.net/progress) (User Name: Chauxvive, 8 problems completed)
+3. [Free Code Camp]
 
 ### Day 21: May 30, 2018, Wednesday
 
