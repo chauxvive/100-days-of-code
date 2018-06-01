@@ -11,7 +11,8 @@
 **Thoughts**: Working 9-5 today. This is my birthday weekend!
 
 **Links to work:**
-1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
 
 ### Day 22: May 31, 2018, Thursday
 
@@ -29,7 +30,7 @@ Already found bugs in the new FCC- several "lessons" can't be completed, meaning
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)  
 2.[Project Euler](https://projecteuler.net/progress) (User Name: Chauxvive, 8 problems completed)
-3. [Free Code Camp]
+3. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
 
 ### Day 21: May 30, 2018, Wednesday
 
