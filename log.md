@@ -5,8 +5,8 @@
 ### Day 23: June 1st, 2018, Monday
 
 **Today's Progress**: 
-* Rocking my way through the new FreeCodeCamp- Wow, such huge changes! 
- * completed basic html/html 5, basic css, applied visual design, applied accessibility, and responsive web design principles. 
+* Rocking my way through the new FreeCodeCamp- Wow, such huge changes!  
+  * completed basic html/html 5, basic css, applied visual design, applied accessibility, and responsive web design principles. 
 
 **Thoughts**: Working 9-5 today. This is my birthday weekend!
 
