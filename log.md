@@ -6,9 +6,10 @@
 
 **Today's Progress**: 
 * Rocking my way through the new FreeCodeCamp- Wow, such huge changes!  
-  * completed basic html/html 5, basic css, applied visual design, applied accessibility, and responsive web design principles. 
+  * completed basic html/html 5, basic css, applied visual design, applied accessibility, and responsive web design principles.
+ 
 
-**Thoughts**: Working 9-5 today. This is my birthday weekend!
+**Thoughts**: Working 9-5 today. Haven't touched 30 days 30 sites yet. I picked a poor week to start, but that doesn't matter. I'll do them later- I've been lucky to code at all. This is my birthday weekend!
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
