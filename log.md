@@ -6,6 +6,8 @@
 
 **Today's Progress**: 
 * Sneaking my way through FreeCodeCamp exercises on my phone in the car (extremely poor mobile experience). Today barely counts, but some days I do 6-10 hours of coding and lessons so...
+  * Completed CSS flexbox section
+  
 * Great job-ready conversation with a newer developer friend about his journey in Portland. "Learn basic javascript, convince someone to hire you as a junior dev and you're pretty much set for life. Get your head around Angular and demonstrate it well and you'll be like four steps ahead everyone else." Sounds about right. The more conversations I have with developers, the more confident I feel that I'm on the right track and moving to a good field.
 
 **Thoughts**: Off to Portland and then Acadia for my birthday! Unfortunately, coding in the car makes me seriously naseous (as I found out immediately) and we had over seven hours of driving today. On the bright side, I'm coding on a beautiful sea-facing balcony tonight. Birthday luck kicked in in the form of an uncleaned room, so we were upgraded to a very nice one indeed. I wish I could spend a day working here (yes please) but we don't have the time. I love parking myself in a cafe or library or hotel nook and working somewhere new, letting the people watching and local food spark my problem solving creativity. Can't wait to explore tomorrow- lots of lupins out and I'm sure the hiking will be great. We'll see if I have meaningful time to code. It is officially my birthday now, after all. The incredible progress I've made on development is part of what makes this birthday feel like a real success.  
