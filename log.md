@@ -6,7 +6,7 @@
 
 **Today's Progress**: 
 * Sneaking my way through FreeCodeCamp exercises on my phone in the car (extremely poor mobile experience). Today barely counts, but some days I do 6-10 hours of coding and lessons so...
-  * Completed CSS flexbox section
+  * Completed CSS flexbox section, nearly all of CSS grid section
   
 * Great job-ready conversation with a newer developer friend about his journey in Portland. "Learn basic javascript, convince someone to hire you as a junior dev and you're pretty much set for life. Get your head around Angular and demonstrate it well and you'll be like four steps ahead everyone else." Sounds about right. The more conversations I have with developers, the more confident I feel that I'm on the right track and moving to a good field.
 
