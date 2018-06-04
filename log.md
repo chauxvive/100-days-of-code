@@ -2,6 +2,25 @@
 
 
 #
+### Day 25: June 4th, 2018, Monday
+
+**Today's Progress**: 
+* Watching a few enterpriseJS videos (spacesuits and node.js, very cool)
+* Read up on news (oh boy, github acquisition by MS :/ ) Signed up for GitLabs to explore.
+* Finished up FCC grid section. On to the new projects to finish up the Responsive Web Design Cert section!
+* Listened to FCC podcast on transitioning from a non-CS field. Another gem, such a good show.
+* Started FCC Survey Form project
+  
+**Thoughts**: Whew, got in last night at 5am so a very slow start today. I'm going to get a few hours in before a birthday dinner with friends tonight. Ok, three hours done, time for a nap before we go out.
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
+
+### (Day 25: June 3rd, 2018, Sunday)
+**Thoughts**: Taking the day off for my birthday!
+
+
 ### Day 24: June 2nd, 2018, Saturday
 
 **Today's Progress**: 
