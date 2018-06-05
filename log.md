@@ -2,6 +2,16 @@
 
 
 #
+### Day 26: June 5th, 2018, Tuesday
+
+**Today's Progress**: 
+* Going through FCC's JavaScript ES6 section, making notes on errors to report (there are many...)
+  
+**Thoughts**: I haven't done a pull request on someone else's project so reporting FCC errors is a good idea for me. I am not feeling at my most code-creative this morning, but I'm taking useful notes. I'm surprised I'm not more motivated to finish the responsive section of FCC but I haven't had much sleep this week and that makes open-ended problems tougher. 
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
 ### Day 25: June 4th, 2018, Monday
 
 **Today's Progress**: 
@@ -10,7 +20,7 @@
 * Finished up FCC grid section. On to the new projects to finish up the Responsive Web Design Cert section!
 * Listened to FCC podcast on transitioning from a non-CS field. Another gem, such a good show.
 * Started FCC Survey Form project
-* Finished the FCC basic JavaScript section update, started E6 section
+* Finished the FCC basic JavaScript section update, started ES6 section
   
 **Thoughts**: Whew, got in last night at 5am so a very slow start today. I'm going to get a few hours in before a birthday dinner with friends tonight. Ok, three hours done, time for a nap before we go out.
 
@@ -19,7 +29,7 @@
 
 
 ### (Day 25: June 3rd, 2018, Sunday)
-**Thoughts**: Taking the day off for my birthday!
+**Thoughts**: Taking the day off for my birthday in Bar Harbor/Acadia National Park!
 
 
 ### Day 24: June 2nd, 2018, Saturday
