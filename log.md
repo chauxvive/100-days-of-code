@@ -10,6 +10,7 @@
 * Finished up FCC grid section. On to the new projects to finish up the Responsive Web Design Cert section!
 * Listened to FCC podcast on transitioning from a non-CS field. Another gem, such a good show.
 * Started FCC Survey Form project
+* Finished the FCC basic JavaScript section update, started E6 section
   
 **Thoughts**: Whew, got in last night at 5am so a very slow start today. I'm going to get a few hours in before a birthday dinner with friends tonight. Ok, three hours done, time for a nap before we go out.
 
