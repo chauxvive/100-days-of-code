@@ -2,14 +2,14 @@
 
 
 #
-### Day 26: June 5th, 2018, Tuesday
+### Day 27: June 6th, 2018, Wednesday
 
 **Today's Progress**: 
 * Listening to CodeNewbie Podcast
 * Working on the FCC Survey project
 * Touched on Grasshopper app. I'm still not convinced it's good, despite all the recommendations.
   
-**Thoughts**: I'm feeling a little tired and burned out. Even though this is day 27 of this 100 days, I've been working on code as much as possible for about three months now. I may slow my pace the next few days, I'm not sure. Feeling burned out is definitely something to take seriously. I find learning and coding fun and when I don't, it means I need to take a a little break and change tactics. 
+**Thoughts**: I'm feeling a little tired and burned out. Even though this is day 28 of this 100 days, I've been working on code as much as possible for about three months now. I may slow my pace the next few days, I'm not sure. Feeling burned out is definitely something to take seriously. I find learning and coding fun and when I don't, it means I need to take a a little break and change tactics. 
 
 **Links to work:**
 1. [FCC Survey Project](https://codepen.io/mpauldesigns/pen/eKZZLW)
