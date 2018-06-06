@@ -5,12 +5,26 @@
 ### Day 26: June 5th, 2018, Tuesday
 
 **Today's Progress**: 
-* Going through FCC's JavaScript ES6 section, making notes on errors to report (there are many...)
+* Listening to CodeNewbie Podcast
+* Working on the FCC Survey project
+* Touched on Grasshopper app. I'm still not convinced it's good, despite all the recommendations.
   
-**Thoughts**: I haven't done a pull request on someone else's project so reporting FCC errors is a good idea for me. I am not feeling at my most code-creative this morning, but I'm taking useful notes. I'm surprised I'm not more motivated to finish the responsive section of FCC but I haven't had much sleep this week and that makes open-ended problems tougher. 
+**Thoughts**: I'm feeling a little tired and burned out. Even though this is day 27 of this 100 days, I've been working on code as much as possible for about three months now. I may slow my pace the next few days, I'm not sure. Feeling burned out is definitely something to take seriously. I find learning and coding fun and when I don't, it means I need to take a a little break and change tactics. 
+
+**Links to work:**
+1. [FCC Survey Project](https://codepen.io/mpauldesigns/pen/eKZZLW)
+
+### Day 26: June 5th, 2018, Tuesday
+
+**Today's Progress**: 
+* Going through FCC's JavaScript ES6 section, making notes on errors to report (there are many...)
+* Working some on FCC Survey project
+  
+**Thoughts**: I haven't done a pull request on someone else's project so reporting FCC errors is a good idea for me. I am not feeling at my most code-creative this morning, but I'm taking useful notes. I'm surprised I'm not more motivated to finish the responsive section of FCC but I haven't had much sleep this week and that makes open-ended problems tougher. Boating class tonight. If all goes well, I should have my certificate this time next week so I can legally drive motorboats here in CT.
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+2. [FCC Survey Project](https://codepen.io/mpauldesigns/pen/eKZZLW)
 
 ### Day 25: June 4th, 2018, Monday
 
@@ -22,7 +36,7 @@
 * Started FCC Survey Form project
 * Finished the FCC basic JavaScript section update, started ES6 section
   
-**Thoughts**: Whew, got in last night at 5am so a very slow start today. I'm going to get a few hours in before a birthday dinner with friends tonight. Ok, three hours done, time for a nap before we go out.
+**Thoughts**: Whew, got in last night at 5am so a very slow start today. I'm going to get a few hours in before a birthday dinner with friends tonight. Ok, three hours done, time for a nap before we go out. I really hope MS doesn't do to Git what it did to Skype and LinkedIn.
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
