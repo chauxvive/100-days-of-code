@@ -5,14 +5,19 @@
 ### Day 28: June 9th, 2018, Saturday
 
 **Today's Progress**: 
-* More work on the survey project. Today is Saturday. My goal is going to be to get the rest of the front end projects done (passing basic criteria) by next Friday, possibly Wednesday. I can always dress them up later. "Make it work. Make it good. Make it fast", right?
+* Completed the basic survey form framework. Still needs styling and it can't be submitted, but it passes all the FCC test suite.
+  * Today is Saturday. My goal is going to be to get the rest of the front end projects done (passing basic criteria) by next Friday, possibly Wednesday. I can always dress them up later. "Make it work. Make it good. Make it fast", right?
+  * I really should move all these codepens to github as well
+* Working through FCC exercises in JavaScript track  
+* Listened to Tim Ferris Podcast: one-man million-dollar businesses. Inspiring hustles!
   
-**Thoughts**: I took a few days off because 1) my dear cat was very sick and required frequent supervision to stay alive 2) I then got myself a respiratory infection myself so most of yesterday was sleeping and staring unfocusedly at the wall. Netflix and a little reading was the best my brain could do. Tony Bourdain died which was a hard shock. He is a big hero of my husband and I and has deeply inspired how we travel and how we see the world. Thank you for everything, Tony, we will miss you. 
+**Thoughts**: I took a few days off because 1) my dear cat was very sick and required frequent supervision to stay alive 2) I then got myself a respiratory infection myself so most of yesterday was sleeping and staring unfocusedly at the wall. Netflix and a little reading was the best my brain could do. Tony Bourdain died which was a shock. He is a big hero of my husband and mine and has deeply inspired how we travel and how we see the world. Thank you for everything, Tony, we will miss you so. 
 
 Travel is one of the biggest reasons I've turned to code. Not only does it offer a more consistent (and higher) cash flow than I've had, but the idea of being a remote developer and being able to travel often is a huge appeal to me. I love my home but really want to explore the world, hopefully with my family. The option of spending a month here or there, or even a few weeks when I feel like it is a big draw. I'm focusing my track to that goal as much as I can. I've started reading more blogs and watching youtube videos to see how other traveling devs do it. Hard to stay focused when there's an ocean of options and reading materials and tutorials to do and I'm curious about everything!
 
 **Links to work:**
 1. [FCC Survey Project](https://codepen.io/mpauldesigns/pen/eKZZLW)
+2. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
 
 ### Day 27: June 6th, 2018, Wednesday
 
