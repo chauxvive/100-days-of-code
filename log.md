@@ -6,7 +6,7 @@
 
 **Today's Progress**: 
 * Completed the basic survey form framework. Still needs styling and it can't be submitted, but it passes all the FCC test suite.
-  * Today is Saturday. My goal is going to be to get the rest of the front end projects done (passing basic criteria) by next Friday, possibly Wednesday. I can always dress them up later. "Make it work. Make it good. Make it fast", right?
+  * Today is Saturday. My goal is going to be to get the rest of the front end projects done (passing basic criteria) by Wednesday. I can always dress them up later. "Make it work. Make it good. Make it fast", right?
   * I really should move all these codepens to github as well
 * Working through FCC exercises in JavaScript track  
 * Listened to Tim Ferris Podcast: one-man million-dollar businesses. Inspiring hustles!
