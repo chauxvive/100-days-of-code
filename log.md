@@ -6,6 +6,7 @@
 
 **Today's Progress**: 
 * Poking away at FCC. Very frustrated with the number of problems that are completely broken. This has been in beta for over a year, how are so problems many non-functioning? And it's simple things- typos in the source code. Wrong instructions. Wrong tests. Can't use the test or submit buttons. As much as I appreciate Quincy's work, I would have much preferred smaller updates that actually worked instead of this giant trash pile of maybe-it-passes-maybe-the-instructions-or-tests-are-all-wrong frustration-builder. And now I'm getting reminders to donate every few problems- I would have been much more willing to donate back when things worked!
+* OWASP top 10 vulnerabilities (TeamTreehouse)
 
 * Listened to JS party (about node) and finally watched WWDC '18. Lots of interesting things to play with but nothing truly revolutionary.
   
