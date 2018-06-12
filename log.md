@@ -2,13 +2,25 @@
 
 
 #
+### Day 29: June 11th, 2018, Monday
+
+**Today's Progress**: 
+* Poking away at FCC. Very frustrated with the number of problems that are completely broken. This has been in beta for over a year, how are so problems many non-functioning? And it's simple things- typos in the source code. Wrong instructions. Wrong tests. Can't use the test or submit buttons. As much as I appreciate Quincy's work, I would have much preferred smaller updates that actually worked instead of this giant trash pile of maybe-it-passes-maybe-the-instructions-or-tests-are-all-wrong frustration-builder. And now I'm getting reminders to donate every few problems- I would have been much more willing to donate back when things worked!
+
+* Listened to JS party (about node) and finally watched WWDC '18. Lots of interesting things to play with but nothing truly revolutionary.
+  
+**Thoughts**: I am so sick (got much worse). All I could do is listen to podcasts and watch WWDC the past two days. This is the worst. I just need to get through to the other side. 
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
 ### Day 28: June 9th, 2018, Saturday
 
 **Today's Progress**: 
 * Completed the basic survey form framework. Still needs styling and it can't be submitted, but it passes all the FCC test suite.
   * Today is Saturday. My goal is going to be to get the rest of the front end projects done (passing basic criteria) by Wednesday. I can always dress them up later. "Make it work. Make it good. Make it fast", right?
   * I really should move all these codepens to github as well
-* Working through FCC exercises in JavaScript track  
+* Finished Regular Expressions in FCC javascript track  
 * Listened to Tim Ferris Podcast: one-man million-dollar businesses. Inspiring hustles!
   
 **Thoughts**: I took a few days off because 1) my dear cat was very sick and required frequent supervision to stay alive 2) I then got myself a respiratory infection myself so most of yesterday was sleeping and staring unfocusedly at the wall. Netflix and a little reading was the best my brain could do. Tony Bourdain died which was a shock. He is a big hero of my husband and mine and has deeply inspired how we travel and how we see the world. Thank you for everything, Tony, we will miss you so. 
