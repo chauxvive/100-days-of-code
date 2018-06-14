@@ -9,6 +9,7 @@
 * FCC JavaScript algorithms and data structures
   * completed: Basic JS, ES6, Regular Expressions, Debugging
   * started Basic Data Structures
+* Chrome is now blocking github for who knows what reasons. I troubleshot that for about an hour without luck. Good times.  
   
 **Thoughts**: Yup, made it to the other side of that bug. Hopping my way back into the saddle at FCC. Pretty disappointed that I haven't finished up the Responsive section, but the simple chunks of JS were easier for my brain to work on in its addled state. I'm still pretty beat. Tomorrow I'm going to do the Product Page assignment (finally got a good idea for it) and get back to React. Also, Brian and I got our boating licenses and officially bought tickets to Mexico today: Holy smokes!
 
