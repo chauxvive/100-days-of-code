@@ -2,6 +2,19 @@
 
 
 #
+### Day 30: June 14th, 2018, Wednesday
+
+**Today's Progress**: 
+* Course on Injection attacks (treehouse)
+* FCC JavaScript algorithms and data structures
+  * completed: Basic JS, ES6, Regular Expressions, Debugging
+  * started Basic Data Structures
+  
+**Thoughts**: Yup, made it to the other side of that bug. Hopping my way back into the saddle at FCC. Pretty disappointed that I haven't finished up the Responsive section, but the simple chunks of JS were easier for my brain to work on. I'm still pretty beat. Tomorrow I'm going to do the Product Page assignment and get back to React, I hope.
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
 ### Day 29: June 11th, 2018, Monday
 
 **Today's Progress**: 
