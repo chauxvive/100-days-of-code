@@ -14,9 +14,15 @@
 * did some more FCC exercises (Basic Data Structures)
 * got some more assets for my photography product page (photologo- way exciting.)
 
-Iced coffee break!
+Iced chai/laundry/errand break!
 
-**June 11th worth, 4:30-5:30
+**June 11th worth, 5-6
+* got wakatime working and hooked into my editor. Alright!
+* updated my WP blog
+* github is still blocked by my chrome. Boo.
+* FCC Basic Data Structures (4 problems)
+
+**June 12th worth 7:15-8:15 (38 min remaining)
 
 
 ### Day 30: June 14th, 2018, Wednesday
