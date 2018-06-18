@@ -2,6 +2,23 @@
 
 
 #
+### Day 31: Monday June 18th
+* We're going to make this work. I'm going to work an hour for each day missed here so I can keep moving. I needed a few days off for family needs and to fight burn out. I'm not giving up. For each hour I work the next week, I will mark my progress for the missing days until I'm caught up, one hour at a time. I've set a timer- first hour: GO!
+* Life updates: Took Brian out on our first catamaran ride, such a pleasure to handle and ride! Definitely hooked. Took my dad on a Whale Watch out of Glouchester, something I had never done. Saw three beautiful humpback whales very close (including a mom and calf), a minke whale, and dolphin. Started some really exciting photography work, in part because I was inspired by the "product page" assignment from FCC. Got some serious complements on my work lately which is freaking great.
+
+**June 10th worth, 2:30-3:30 (actually 4:00 because of distractions) **:
+* read up on travel developers
+* researched running Sketch on windows
+* got and installed VMware to play with. I'm determined to learn Sketch. Plus, I first played with VMs in high school and I'm very excited to do so again. DLing a copy of High Sierra. 
+* got updated on slack, emails- not glamorous, but needed
+* did some more FCC exercises (Basic Data Structures)
+* got some more assets for my photography product page (photologo- way exciting.)
+
+Iced coffee break!
+
+**June 11th worth, 4:30-5:30
+
+
 ### Day 30: June 14th, 2018, Wednesday
 
 **Today's Progress**: 
