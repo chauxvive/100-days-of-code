@@ -2,11 +2,16 @@
 
 
 #
+### Day 32: Tuesday Juneteeth
+* Ok, yesterday went pretty well! I'm working this morning but not long. Got a half hour this morning to finish up a few things.
+
+
+
 ### Day 31: Monday June 18th
 * We're going to make this work. I'm going to work an hour for each day missed here so I can keep moving. I needed a few days off for family needs and to fight burn out. I'm not giving up. For each hour I work the next week, I will mark my progress for the missing days until I'm caught up, one hour at a time. I've set a timer- first hour: GO!
 * Life updates: Took Brian out on our first catamaran ride, such a pleasure to handle and ride! Definitely hooked. Took my dad on a Whale Watch out of Glouchester, something I had never done. Saw three beautiful humpback whales very close (including a mom and calf), a minke whale, and dolphin. Started some really exciting photography work, in part because I was inspired by the "product page" assignment from FCC. Got some serious complements on my work lately which is freaking great.
 
-**June 10th worth, 2:30-3:30 (actually 4:00 because of distractions) **:
+**June 18th worth, 2:30-3:30 (actually 4:00 because of distractions) **:
 * read up on travel developers
 * researched running Sketch on windows
 * got and installed VMware to play with. I'm determined to learn Sketch. Plus, I first played with VMs in high school and I'm very excited to do so again. DLing a copy of High Sierra. 
@@ -16,13 +21,13 @@
 
 Iced chai/laundry/errand break!
 
-**June 11th worth, 5-6
+**June 12th worth, 5-6
 * got wakatime working and hooked into my editor. Alright!
 * updated my WP blog
 * github is still blocked by my chrome. Boo.
 * FCC Basic Data Structures (4 problems)
 
-**June 12th worth 7:15-8:15 (18 min remaining)
+**June 13th worth 7:15-8:15
 * Finished up FCC Basic Data Structures
 * Started Intro to Algorithms, get to skip ahead to "Finders Keepers"
 
