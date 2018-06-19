@@ -5,13 +5,20 @@
 ### Day 32: Tuesday Juneteeth
 * Ok, yesterday went pretty well! I'm working this morning but not long. Got a half hour this morning to finish up a few things. Now I only have 15, 16, & 17's worth to make up (I'm giving myself those two other two-day breaks.)
 
+**Today's worth (5-6):
+ * finder's keepers & BooHoo algorithms on FCC
+ * started slice and splice
+ * set up a Bitbucket just in case. 
+ * read up on Hg(Mercurial)- not a good sign that all the articles are incredibly old. (I am very unconvinced)
+
+**June 15th's worth (6:30-7:30):
 
 
 ### Day 31: Monday June 18th
 * We're going to make this work. I'm going to work an hour for each day missed here so I can keep moving. I needed a few days off for family needs and to fight burn out. I'm not giving up. For each hour I work the next week, I will mark my progress for the missing days until I'm caught up, one hour at a time. I've set a timer- first hour: GO!
 * Life updates: Took Brian out on our first catamaran ride, such a pleasure to handle and ride! Definitely hooked. Took my dad on a Whale Watch out of Glouchester, something I had never done. Saw three beautiful humpback whales very close (including a mom and calf), a minke whale, and dolphin. Started some really exciting photography work, in part because I was inspired by the "product page" assignment from FCC. Got some serious complements on my work lately which is freaking great.
 
-**June 18th worth, 2:30-3:30 (actually 4:00 because of distractions) **:
+**Today, June 18th worth, 2:30-3:30:
 * read up on travel developers
 * researched running Sketch on windows
 * got and installed VMware to play with. I'm determined to learn Sketch. Plus, I first played with VMs in high school and I'm very excited to do so again. DLing a copy of High Sierra. 
