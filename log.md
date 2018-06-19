@@ -3,7 +3,7 @@
 
 #
 ### Day 32: Tuesday Juneteeth
-* Ok, yesterday went pretty well! I'm working this morning but not long. Got a half hour this morning to finish up a few things.
+* Ok, yesterday went pretty well! I'm working this morning but not long. Got a half hour this morning to finish up a few things. Now I only have 15, 16, & 17's worth to make up (I'm giving myself those two other two-day breaks.)
 
 
 
