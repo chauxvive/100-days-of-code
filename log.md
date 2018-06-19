@@ -22,8 +22,9 @@ Iced chai/laundry/errand break!
 * github is still blocked by my chrome. Boo.
 * FCC Basic Data Structures (4 problems)
 
-**June 12th worth 7:15-8:15 (38 min remaining)
-
+**June 12th worth 7:15-8:15 (18 min remaining)
+* Finished up FCC Basic Data Structures
+* Started Intro to Algorithms, get to skip ahead to "Finders Keepers"
 
 ### Day 30: June 14th, 2018, Wednesday
 
