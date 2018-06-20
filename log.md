@@ -2,6 +2,10 @@
 
 
 #
+
+### Day 33: Wednesday June 20th
+
+
 ### Day 32: Tuesday Juneteeth
 * Ok, yesterday went pretty well! I'm working this morning but not long. Got a half hour this morning to finish up a few things. Now I only have 15, 16, & 17's worth to make up (I'm giving myself those two other two-day breaks.)
 
@@ -10,11 +14,12 @@
  * started slice and splice
  * set up a Bitbucket just in case. 
  * read up on Hg(Mercurial)- not a good sign that all the articles are incredibly old. (I am very unconvinced)
- * listened to Quincy Larsen interview on how FCC started 
+ * listened to Quincy Larsen Indie Hackers podcast
  
- **June 15th's worth (12-12:30):**
- * Finished up Slice/Splice and done with basic algorithm scripting. On to OOP!
- * Started OOP FCC (ripped through 6)
+ **June 15th's worth (12-1):**
+ * Finished up Slice/Splice and done with basic algorithm scripting. 
+ * Started OOP FCC (ripped through 12)
+ * finished Indie Hackers podcast
 
 
 ### Day 31: Monday June 18th
