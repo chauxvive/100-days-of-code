@@ -11,6 +11,10 @@
  * set up a Bitbucket just in case. 
  * read up on Hg(Mercurial)- not a good sign that all the articles are incredibly old. (I am very unconvinced)
  * listened to Quincy Larsen interview on how FCC started 
+ 
+ **June 15th's worth (12-12:30):**
+ * Finished up Slice/Splice and done with basic algorithm scripting. On to OOP!
+ * Started OOP FCC (ripped through 6)
 
 
 ### Day 31: Monday June 18th
