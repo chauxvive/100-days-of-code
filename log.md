@@ -4,11 +4,16 @@
 #
 
 ### Day 33: Wednesday June 20th
-* Still trucking. At work early today, only June 16th and 17th left to catch up!
-**Today's worth (11-11:30)**
- * finished OOP section of Javascript FCC
 
-**Thoughts:** Much more sympathetic to FCC and Quincy Larsen's great work. Impressed about the Microsoft Strike. I am a strong believer in the inherent need of ethical consideration in coding, so it's good to see developers taking interest in how their talents are used. I really want to code for Good in the future.
+**Today's worth (11-12)**
+ * finished OOP section of Javascript FCC
+ * started Functional Programming
+ * Chrome is accepting Github links again. I'll take it.
+ 
+ **June 16th worth**
+ **June 17th worth**
+
+**Thoughts:** Still trucking. At work early today, only June 16th and 17th left to catch up! I'm not giving myself "day" credit for these, to keep my counting simple, but it makes me feel more honest. Much more sympathetic to FCC and Quincy Larsen's great work. Impressed about the Microsoft Strike. I am a strong believer in the inherent need of ethical consideration in coding, so it's good to see developers taking interest in how their talents are used. I really want to code for Good in the future. Also, understanding tests and test-making processes has definitely changed my fundamental approach to these JS challenges, pushing me to more behavior-driven design (BDD). I should take a break and do more open-form projects soon- maybe dividing my days in half or doing every other day. I suspect that starting the day with solve-the-problem hand-holding will prime my mind to the second half, more open form work, which will push my applications and make sure I have work I can show and be proud of. I've always been self-driven, but becoming mostly my own boss has taught me an incredible amount about structure, discipline, and motivation. Having the whole day to do whatever you want is both a blessing and a curse. Discipline, discipline, discipline!
 
 
 ### Day 32: Tuesday Juneteeth
