@@ -4,6 +4,9 @@
 #
 
 ### Day 33: Wednesday June 20th
+* Still trucking. At work early today, only June 16th and 17th left to catch up!
+
+**Thoughts:** Much more sympathetic to FCC and Quincy Larsen's great work. Impressed about the Microsoft Strike. I am a strong believer in the inherent need of ethical consideration in coding, so it's good to see developers taking interest in how their talents are used. I really want to code for Good in the future.
 
 
 ### Day 32: Tuesday Juneteeth
@@ -15,6 +18,7 @@
  * set up a Bitbucket just in case. 
  * read up on Hg(Mercurial)- not a good sign that all the articles are incredibly old. (I am very unconvinced)
  * listened to Quincy Larsen Indie Hackers podcast
+ * Updating coding to-do list
  
  **June 15th's worth (12-1):**
  * Finished up Slice/Splice and done with basic algorithm scripting. 
