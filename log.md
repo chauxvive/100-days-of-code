@@ -5,6 +5,8 @@
 
 ### Day 33: Wednesday June 20th
 * Still trucking. At work early today, only June 16th and 17th left to catch up!
+**Today's worth (11-11:30)**
+ * finished OOP section of Javascript FCC
 
 **Thoughts:** Much more sympathetic to FCC and Quincy Larsen's great work. Impressed about the Microsoft Strike. I am a strong believer in the inherent need of ethical consideration in coding, so it's good to see developers taking interest in how their talents are used. I really want to code for Good in the future.
 
