@@ -9,11 +9,15 @@
 * Podcasts: Indie Hackers - Free Code Camp, CodePen Radio- Trends
 * still fighting with FCC use the map Method but finally getting it. Passing all but one test, sending it to StackExchange for aid.
 * started FCC implement map on a prototype
+
+ **June 16th worth (final 1/2 hour)**
 * back to VMWare to work on something that doesn't make me want to throw things(I hope)
+
+**June 17th worth - last makeup day**
   
 **Thoughts**: Trapped dealing with family things most of today. I have to cut out/say no to social time when it gets in the way of code (I did not invite any of these folks but was still stuck entertaining.) I had literally ONE really great, productive day all week. That's not going to work! Had a talk with husband about it. We still have a dinner party tonight :( Just like I had to explain that when I'm working, I need to focus and can't really chat, today I had to explain that I'm really not getting the undistracted time when I need it. Working from home is its own unique set of challenges. Since it's 4 and I just got in the door, I explained I couldn't do any prep for tonight because I had to code. I'm lucky he understands. We try to have each other's back.
 - I really should start doing more blogging or maybe podcasting work. I do really like talking to people.   
--Love WakaTime because it helps keep me honest.
+-Love WakaTime because it helps keep me honest. Using the pomodoro clock keeps me from tangenting away too, keeps the pressure on.
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
@@ -26,10 +30,9 @@
  * working on FCC Refactor Global Variables Out of Functions - using BDD has definitely helped with more complicated assignments like this, but I still come up to roadblocks. I got every test to pass but the last one, where the two methods are used together (spoiler alert: they do not..) Bummer.
  * working on FCC use the map Method to Extract Data from an Array. I am really having trouble understanding proper usage of .map which is so frustrating because it seems like a very simple concept, but none of my practice tests are working. Tough night.
  * Refactor Global Variables update: Stack Exchange saves the day! I had accidently reused a global variable I didn't mean to. Brilliant, done.
- 
 
- **June 16th worth (11:30-12)**
- **June 17th worth**
+ **June 16th worth (11:30-12:30)**
+   * see above
 
 ### Day 33: Wednesday, June 20th
 
