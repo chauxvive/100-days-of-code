@@ -12,7 +12,7 @@
 * back to VMWare to work on something that doesn't make me want to throw things(I hope)
   
 **Thoughts**: Trapped dealing with family things most of today. I have to cut out/say no to social time when it gets in the way of code (I did not invite any of these folks but was still stuck entertaining.) I had literally ONE really great, productive day all week. That's not going to work! Had a talk with husband about it. We still have a dinner party tonight :( Just like I had to explain that when I'm working, I need to focus and can't really chat, today I had to explain that I'm really not getting the undistracted time when I need it. Working from home is its own unique set of challenges. Since it's 4 and I just got in the door, I explained I couldn't do any prep for tonight because I had to code. I'm lucky he understands. We try to have each other's back.
-- I really should start doing more blogging or maybe podcasting work. I do really like talking to people. 
+- I really should start doing more blogging or maybe podcasting work. I do really like talking to people.   
 -Love WakaTime because it helps keep me honest.
 
 **Links to work:**
