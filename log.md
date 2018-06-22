@@ -2,16 +2,41 @@
 
 
 #
+### Day 34: June 22nd, 2018, Wednesday
 
-### Day 33: Wednesday June 20th
+**Today's Progress(4-5)**: 
+* Podcasts: Syntax- SUPER helpful workflow episode. Pure gold to a new coder like myself.
+* Podcasts: Indie Hackers - Free Code Camp, CodePen Radio- Trends
+* still fighting with FCC use the map Method but finally getting it. Passing all but one test, sending it to StackExchange for aid.
+* started FCC implement map on a prototype
+* back to VMWare to work on something that doesn't make me want to throw things(I hope)
+  
+**Thoughts**: Trapped dealing with family things most of today. I have to cut out/say no to social time when it gets in the way of code (I did not invite any of these folks but was still stuck entertaining.) I had literally ONE really great, productive day all week. That's not going to work! Had a talk with husband about it. We still have a dinner party tonight :( Just like I had to explain that when I'm working, I need to focus and can't really chat, today I had to explain that I'm really not getting the undistracted time when I need it. Working from home is its own unique set of challenges. Since it's 4 and I just got in the door, I explained I couldn't do any prep for tonight because I had to code. I'm lucky he understands. We try to have each other's back.
+- I really should start doing more blogging or maybe podcasting work. I do really like talking to people. 
+-Love WakaTime because it helps keep me honest.
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
+
+### Day 33: Thursday, June 21th
+
+**Today's worth (10:30-11:30)**
+ * listened to Syntax podcast
+ * working on FCC Refactor Global Variables Out of Functions - using BDD has definitely helped with more complicated assignments like this, but I still come up to roadblocks. I got every test to pass but the last one, where the two methods are used together (spoiler alert: they do not..) Bummer.
+ * working on FCC use the map Method to Extract Data from an Array. I am really having trouble understanding proper usage of .map which is so frustrating because it seems like a very simple concept, but none of my practice tests are working. Tough night.
+ * Refactor Global Variables update: Stack Exchange saves the day! I had accidently reused a global variable I didn't mean to. Brilliant, done.
+ 
+
+ **June 16th worth (11:30-12)**
+ **June 17th worth**
+
+### Day 33: Wednesday, June 20th
 
 **Today's worth (11-12)**
  * finished OOP section of Javascript FCC
  * started Functional Programming
  * Chrome is accepting Github links again. I'll take it.
- 
- **June 16th worth**
- **June 17th worth**
 
 **Thoughts:** Still trucking. At work early today, only June 16th and 17th left to catch up! I'm not giving myself "day" credit for these, to keep my counting simple, but it makes me feel more honest. Much more sympathetic to FCC and Quincy Larsen's great work. Impressed about the Microsoft Strike. I am a strong believer in the inherent need of ethical consideration in coding, so it's good to see developers taking interest in how their talents are used. I really want to code for Good in the future. Also, understanding tests and test-making processes has definitely changed my fundamental approach to these JS challenges, pushing me to more behavior-driven design (BDD). I should take a break and do more open-form projects soon- maybe dividing my days in half or doing every other day. I suspect that starting the day with solve-the-problem hand-holding will prime my mind to the second half, more open form work, which will push my applications and make sure I have work I can show and be proud of. I've always been self-driven, but becoming mostly my own boss has taught me an incredible amount about structure, discipline, and motivation. Having the whole day to do whatever you want is both a blessing and a curse. Discipline, discipline, discipline!
 
@@ -33,7 +58,7 @@
  * finished Indie Hackers podcast
 
 
-### Day 31: Monday June 18th
+### Day 31: Monday, June 18th
 * We're going to make this work. I'm going to work an hour for each day missed here so I can keep moving. I needed a few days off for family needs and to fight burn out. I'm not giving up. For each hour I work the next week, I will mark my progress for the missing days until I'm caught up, one hour at a time. I've set a timer- first hour: GO!
 * Life updates: Took Brian out on our first catamaran ride, such a pleasure to handle and ride! Definitely hooked. Took my dad on a Whale Watch out of Glouchester, something I had never done. Saw three beautiful humpback whales very close (including a mom and calf), a minke whale, and dolphin. Started some really exciting photography work, in part because I was inspired by the "product page" assignment from FCC. Got some serious complements on my work lately which is freaking great.
 
