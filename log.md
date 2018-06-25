@@ -16,12 +16,15 @@
 ### Day 35: June 23nd, 2018, Saturday
 
 **Today's Progress**: 
-* Finished FCC use the map Method. I'm still not crystal clear but I feel better about it than I had.
+* Stack exchange came through again. Finished FCC use the map Method. I'm still not crystal clear but I feel better about it than I had.
+* Time for something fun - User Interfaces in VR on TeamTreehouse!
+
   
 **Thoughts**: Went to Plymouth with mom and Brian to see family graves. She's wanted to do that a long time. Still loving that Pomodoro timer for lighting a fire under my butt. Still racking up that WakaTime. Good stuff.
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)  
 
 ### Day 34: June 22nd, 2018, Friday
 
