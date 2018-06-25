@@ -2,7 +2,28 @@
 
 
 #
-### Day 34: June 22nd, 2018, Wednesday
+### Day 34: June 24nd, 2018, Sunday
+
+**Today's Progress**: 
+* Playing with VMware
+  
+**Thoughts**: Had a production meeting and discovered it sounds like the gig I had set for when we get home from Tulum may be falling through, so, again, fire under butt to actually get some clients. I LOVE figuring things out. I adore teaching myself things and teaching others. Unfortunately, I do NOT love selling myself. I really need to get over it!
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
+
+### Day 34: June 23nd, 2018, Saturday
+
+**Today's Progress**: 
+* Finished FCC use the map Method. I'm still not crystal clear but I feel better about it than I had.
+  
+**Thoughts**: Went to Plymouth with mom and Brian to see family graves. She's wanted to do that a long time. Still loving that Pomodoro timer for lighting a fire under my butt. Still racking up that WakaTime. Good stuff.
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
+### Day 34: June 22nd, 2018, Friday
 
 **Today's Progress(4-5)**: 
 * Podcasts: Syntax- SUPER helpful workflow episode. Pure gold to a new coder like myself.
