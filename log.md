@@ -2,7 +2,7 @@
 
 
 #
-### Day 34: June 24nd, 2018, Sunday
+### Day 36: June 24nd, 2018, Sunday
 
 **Today's Progress**: 
 * Playing with VMware
@@ -13,7 +13,7 @@
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
 
 
-### Day 34: June 23nd, 2018, Saturday
+### Day 35: June 23nd, 2018, Saturday
 
 **Today's Progress**: 
 * Finished FCC use the map Method. I'm still not crystal clear but I feel better about it than I had.
