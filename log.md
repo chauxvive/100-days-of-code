@@ -8,6 +8,7 @@
 * read up on free SSL options, requested free SSL certs for all my sites
 * watched: Duolingo documentary. Totally amazing.
 * pocast- finished JS party - graphy ql. Definitely piqued my interest in it and suddenly it's everywhere.
+* started my WP child theme for Lighthouse Child that's got better responsive styles.
 
 **Thoughts**: Excited about the stuff I'm learning again, thank god. I had to take a mini break from FCC. I REALLY like seeing the stories of people building cool things and using code and technology to make a meaningful difference. FluentU has been helping me refresh my spanish. We leave a week from tomorrow and honestly I'm freaked out about getting stuff done meanwhile.
 
