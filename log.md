@@ -2,12 +2,27 @@
 
 
 #
+### Day 37: June 25nd, 2018, Monday
+
+**Today's Progress**: 
+* read up on free SSL options, requested free SSL certs for all my sites
+* watched: Duolingo documentary. Totally amazing.
+* pocast- finished JS party - graphy ql. Definitely piqued my interest in it and suddenly it's everywhere.
+
+**Thoughts**: Excited about the stuff I'm learning again, thank god. I had to take a mini break from FCC. I REALLY like seeing the stories of people building cool things and using code and technology to make a meaningful difference. FluentU has been helping me refresh my spanish. We leave a week from tomorrow and honestly I'm freaked out about getting stuff done meanwhile.
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
 ### Day 36: June 24nd, 2018, Sunday
 
 **Today's Progress**: 
 * Playing with VMware
+* Podcast: JS party - graph ql
+* Played with MAMP to get a local Apache server going. Yay!
+* Reviewing wordpress videos on treehouse- wow, it's been a while. What I really need to understand is how to create a child theme so I can make my current WP page themes more responsive. Hard to find the information...
   
-**Thoughts**: Had a production meeting and discovered it sounds like the gig I had set for when we get home from Tulum may be falling through, so, again, fire under butt to actually get some clients. I LOVE figuring things out. I adore teaching myself things and teaching others. Unfortunately, I do NOT love selling myself. I really need to get over it!
+**Thoughts**: (Still need to make up June 17th.) Had a production meeting and discovered it sounds like the gig I had set for when we get home from Tulum may be falling through, so, again, fire under butt to actually get some clients. I LOVE figuring things out. I adore teaching myself things and teaching others. Unfortunately, I do NOT love selling myself. I really need to get over it!
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
@@ -17,8 +32,8 @@
 
 **Today's Progress**: 
 * Stack exchange came through again. Finished FCC use the map Method. I'm still not crystal clear but I feel better about it than I had.
-* Time for something fun - User Interfaces in VR on TeamTreehouse!
-
+* Time for something fun - User Interfaces in VR on TeamTreehouse! Uh oh, it's all in Unity which I haven't touched yet. ARkit is another thing I'm really dying to play with on a Mac.
+* OWASP Top 10 Vulnerabilities - XSS: How it works (Treehouse)
   
 **Thoughts**: Went to Plymouth with mom and Brian to see family graves. She's wanted to do that a long time. Still loving that Pomodoro timer for lighting a fire under my butt. Still racking up that WakaTime. Good stuff.
 
