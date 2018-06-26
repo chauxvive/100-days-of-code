@@ -2,6 +2,20 @@
 
 
 #
+
+### Day 38: June 26nd, 2018, Tuesday
+
+**Today's Progress(4-5)**: 
+* wes bos javascript30
+TO DO: 
+* get mpaul.us SSL
+  
+**Thoughts**: 
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
+
 ### Day 37: June 25nd, 2018, Monday
 
 **Today's Progress**: 
@@ -24,6 +38,10 @@
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+2. [my WordPress travel blog](http://www.onethousandgoldenhighways.com/)
+3. [another WP blog I manage](http://rocktzar.com/)
+4. [my WP theater portfolio blog](http://mpaul.us/)
+
 
 ### Day 36: June 24nd, 2018, Sunday
 
@@ -263,7 +281,7 @@ Already found bugs in the new FCC- several "lessons" can't be completed, meaning
 
 **Links to work:**
 1. [Team Treehouse Profile](https://teamtreehouse.com/mp15)  
-2.[Project Euler](https://projecteuler.net/progress) (User Name: Chauxvive, 8 problems completed)
+2. [Project Euler](https://projecteuler.net/progress) (User Name: Chauxvive, 8 problems completed)
 3. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
 
 ### Day 21: May 30, 2018, Wednesday
