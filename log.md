@@ -33,7 +33,7 @@ TO DO:
 
 **Thoughts**: Excited about the stuff I'm learning again, thank god. I had to take a mini break from FCC. I REALLY like seeing the stories of people building cool things and using code and technology to make a meaningful difference. FluentU has been helping me refresh my spanish. We leave a week from tomorrow and honestly I'm freaked out about getting things done before we go... plus, it may be childish, but Mexico is the most non-first-world place we've been to and we're not staying on the beaten path in a resort. I keep telling myself people like us (and even less prepared) go to Tulum all the time- but I probably won't believe it until I go and see for myself. As much as I love traveling, I often get anxious before we go!
 * Having trouble getting the full parent styles to pull over into my new child theme. Lots of investigating to do on why that's not working (probably has to do with bootstrap?) but this is definitely a start. Meanwhile, last night, in doing some research for this, I realized there are a ton of mysterious ftp account requests on my Bluehost which means the injection attack I was having so much trouble with probably came from the Bluehost side NOT from wordpress. That is both encouraging and enraging, but will help me prevent further attacks. Better change my password as well.
-* Update: turns out I had two spurious users. 
+* Update: turns out I had two spurious users. FTPs were a red herring, but I removed them anyway.
 * Wow, covered an incredible amount of ground today, even with a migraine! Very pleased at how much I got done/figured out. AND I'm fully caught up with hours and then some.
 
 **Links to work:**
