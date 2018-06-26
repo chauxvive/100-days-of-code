@@ -6,11 +6,21 @@
 
 **Today's Progress**: 
 * read up on free SSL options, requested free SSL certs for all my sites
-* watched: Duolingo documentary. Totally amazing.
+* watched: Duolingo documentary.
 * pocast- finished JS party - graphy ql. Definitely piqued my interest in it and suddenly it's everywhere.
 * started my WP child theme for Lighthouse Child that's got better responsive styles.
 
-**Thoughts**: Excited about the stuff I'm learning again, thank god. I had to take a mini break from FCC. I REALLY like seeing the stories of people building cool things and using code and technology to make a meaningful difference. FluentU has been helping me refresh my spanish. We leave a week from tomorrow and honestly I'm freaked out about getting stuff done meanwhile.
+**June 17th worth - last makeup day (4:30-5:30++)**
+* continued work to figure out what isn't working with Child theme. I should really start developing WP locally, especially on a project like this. I know how, I just haven't been doing it.
+* reinstall 7-zip. Hurray open source! Also Malwarebytes.
+* signed up and started watching JavaScript30
+* Bluehost support time (really not liking much of what I'm reading about BH)
+* Extremely excited to have figured out my permissions error in creating a VMware machine on my own after endless tutorials and reading. So incredibly satisfying. 
+
+**Thoughts**: Excited about the stuff I'm learning again, thank god. I had to take a mini break from FCC. I REALLY like seeing the stories of people building cool things and using code and technology to make a meaningful difference. FluentU has been helping me refresh my spanish. We leave a week from tomorrow and honestly I'm freaked out about getting things done before we go... plus, it may be childish, but Mexico is the most non-first-world place we've been to and we're not staying on the beaten path in a resort. I keep telling myself people like us (and even less prepared) go to Tulum all the time- but I probably won't believe it until I go and see for myself. As much as I love traveling, I often get anxious before we go!
+* Having trouble getting the full parent styles to pull over into my new child theme. Lots of investigating to do on why that's not working (probably has to do with bootstrap?) but this is definitely a start. Meanwhile, last night, in doing some research for this, I realized there are a ton of mysterious ftp account requests on my Bluehost which means the injection attack I was having so much trouble with probably came from the Bluehost side NOT from wordpress. That is both encouraging and enraging, but will help me prevent further attacks. Better change my password as well.
+* Update: turns out I had two spurious users. 
+* Wow, covered an incredible amount of ground today, even with a migraine! Very pleased at how much I got done/figured out. AND I'm fully caught up with hours and then some.
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
@@ -18,11 +28,9 @@
 ### Day 36: June 24nd, 2018, Sunday
 
 **Today's Progress**: 
-* Playing with VMware
 * Podcast: JS party - graph ql
 * Played with MAMP to get a local Apache server going. Yay!
-* Reviewing wordpress videos on treehouse- wow, it's been a while. What I really need to understand is how to create a child theme so I can make my current WP page themes more responsive. Hard to find the information...
-  
+* Reviewing wordpress videos on treehouse- wow, it's been a while. What I really need to understand is how to create a child theme so I can make my current WP page themes more responsive. Hard to find the information...  
 **Thoughts**: (Still need to make up June 17th.) Had a production meeting and discovered it sounds like the gig I had set for when we get home from Tulum may be falling through, so, again, fire under butt to actually get some clients. I LOVE figuring things out. I adore teaching myself things and teaching others. Unfortunately, I do NOT love selling myself. I really need to get over it!
 
 **Links to work:**
