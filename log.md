@@ -3,14 +3,29 @@
 
 #
 
+### Day 39: June 26nd, 2018, Tuesday
+
+**Today's Progress(4-5)**: 
+* fighting with iOS virtual machine install
+  * hours of reading, fixing other permission read/write errors, changing Bios settings, restarting, changing other settings, figuring out other errors
+  * installing High Sierra! My beautiful virtual machine!
+
+TO DO: 
+* get mpaul.us SSL
+  
+**Thoughts**: I GOT IT. There was a lot of deep diving with permissions and Bios edits and virtual machine enabling. But just think- I can play with ARkit and Sketch and...and....!
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
 ### Day 38: June 26nd, 2018, Tuesday
 
 **Today's Progress(4-5)**: 
 * wes bos javascript30
-TO DO: 
-* get mpaul.us SSL
+* fighting with iOS virtual machine. 
+  * reading, watching, unlocking, fixing permission errors
   
-**Thoughts**: 
+**Thoughts**: Hey, a new error message this time! WHAT A RUSH.
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
