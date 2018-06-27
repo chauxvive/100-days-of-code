@@ -9,6 +9,8 @@
 * fighting with iOS virtual machine install
   * hours of reading, fixing other permission read/write errors, changing Bios settings, restarting, changing other settings, figuring out other errors
   * installing High Sierra! My beautiful virtual machine!
+  * Ah the default language was set to Russian. At least I can sound things out. Fixed?
+  * My repair and accidental restart corrupted the install file. Back to the drawing board.
 
 TO DO: 
 * get mpaul.us SSL
