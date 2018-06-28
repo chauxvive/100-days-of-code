@@ -7,11 +7,12 @@
 **Today's Progress(4-5)**: 
 * My work yesterday somehow corrupted my graphics card driver => no videos playing on my machine. Fixed.
 * back to FCC: completed .myMap method! great use of "this".
-* completed FCC: Use filter Method to Extract
-* completed FCC: filter prototype
-* watching: URL to IRL on the Mexican election. Deeply horrifying. Ethics are intrinsically linked to technology and it's incredibly immoral to say otherwise (I'm looking at you, Zuckerburg.) "I don't think there's anything more terrifying than corporate America." Yikes. 
-* working on JavaScript Algorithms: Telephone Number Validator
-* uh oh, found the Odin project. 
+  * completed FCC: Use filter Method to Extract
+  * completed FCC: filter prototype
+  * working on JavaScript Algorithms: Telephone Number Validator. Sometimes it's nice to grab the low-hanging fruit of passing one test at a time.
+* watching: URL to IRL on the Mexican election. Deeply horrifying. Ethics are intrinsically necessary to technology and it's incredibly immoral to say otherwise (I'm looking at you, Zuckerburg.) "I don't think there's anything more terrifying than corporate America." Yikes. 
+
+* uh oh, found the Odin project. Distraction alert!
 
 TO DO: 
 * get mpaul.us SSL
