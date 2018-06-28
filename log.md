@@ -6,7 +6,8 @@
 
 **Today's Progress(4-5)**: 
 * My work yesterday somehow corrupted my graphics card driver => no videos playing on my machine. Fixed.
-* back to FCC: completed .myMap method! great use of "this".
+* back to FCC: 
+  * completed .myMap method! great use of "this".
   * completed FCC: Use filter Method to Extract
   * completed FCC: filter prototype
   * working on JavaScript Algorithms: Telephone Number Validator. Sometimes it's nice to grab the low-hanging fruit of passing one test at a time.
