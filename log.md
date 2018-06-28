@@ -1,21 +1,36 @@
 # 100 Days Of Code - Log
 
-
 #
 
-### Day 39: June 26nd, 2018, Tuesday
+### Day 40: June 28nd, 2018, Thursday
 
 **Today's Progress(4-5)**: 
-* fighting with iOS virtual machine install
-  * hours of reading, fixing other permission read/write errors, changing Bios settings, restarting, changing other settings, figuring out other errors
-  * installing High Sierra! My beautiful virtual machine!
-  * Ah the default language was set to Russian. At least I can sound things out. Fixed?
-  * My repair and accidental restart corrupted the install file. Back to the drawing board.
+* My work yesterday somehow corrupted my graphics card driver => no videos playing on my machine. Fixed.
+* back to FCC: completed .myMap method! great use of "this".
+* completed FCC: Use filter Method to Extract
+* completed FCC: filter prototype
+* watching: URL to IRL on the Mexican election. Deeply horrifying. Ethics are intrinsically linked to technology and it's incredibly immoral to say otherwise (I'm looking at you, Zuckerburg.) "I don't think there's anything more terrifying than corporate America." Yikes. 
+* working on JavaScript Algorithms: Telephone Number Validator
+* uh oh, found the Odin project. 
 
 TO DO: 
 * get mpaul.us SSL
   
-**Thoughts**: I GOT IT. There was a lot of deep diving with permissions and Bios edits and virtual machine enabling. But just think- I can play with ARkit and Sketch and...and....!
+**Thoughts**: Frustrated coding and missing my more artistic pursuits- photography, blogging, social media... And I'm still not making  money. I need to have a business meeting with myself to figure out how to unblock later today. I KNOW I'm what's holding me back, more than anything else. I have the skills. Also, 4 days to Mexico and I AM FREAKING OUT.
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
+### Day 39: June 27nd, 2018, Wednesday
+
+**Today's Progress(4-5)**: 
+* fighting with iOS virtual machine install
+  * hours of reading, fixing other permission read/write errors, changing Bios settings, restarting, changing other settings, figuring out other errors
+  * installing High Sierra! My beautiful virtual machine! It actually booted up and installed!
+  * Ah the default language was set to Russian. At least I can sound things out. Fixed?
+  * My repair and accidental restart corrupted the install file. Back to the drawing board.
+  
+**Thoughts**: I GOT IT. There was a lot of deep diving with permissions and Bios edits and virtual machine enabling. But just think- I can play with ARkit and Sketch and...and....! ..Nope. Fun cancelled until I can get a new, uncorrupted MacOS which won't happen sooner than tomorrow. Well, at least I broke out my new drone to play with for the first time.
 
 **Links to work:**
 1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
