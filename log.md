@@ -10,6 +10,11 @@
   * completed .myMap method! great use of "this".
   * completed FCC: Use filter Method to Extract
   * completed FCC: filter prototype
+  * completed FCC: return Part of an Array using .splice
+  * completed FCC: remove Elem from array using .slice 
+  * completed FCC: Add elem using concat. Is it me or did this section just get MUCH easier?
+  * completed FCC: add elem using concat instead of push
+  * completed 6 more FCC exercises
   * working on JavaScript Algorithms: Telephone Number Validator. Sometimes it's nice to grab the low-hanging fruit of passing one test at a time.
 * watching: URL to IRL on the Mexican election. Deeply horrifying. Ethics are intrinsically necessary to technology and it's incredibly immoral to say otherwise (I'm looking at you, Zuckerburg.) "I don't think there's anything more terrifying than corporate America." Yikes. 
 
