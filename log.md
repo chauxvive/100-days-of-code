@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 #
+### Day 41: June 29nd, 2018, Friday
+
+**Today's Progress(4-5)**: 
+* completed: FCC using .every, using .some, currying
+ * completed FCC Functional programing! Yes! On to intermediate algorithm scripting.
+* listening to: Indie Hackers - Buffer episode
+* tried to redo OSVM. No luck yet still. Quite frustrating.
+ * update: haphazardly had it running one more time in the background (3rd install attempt on this 5th version) and it worked!!
+ 
+  
+**Thoughts**: Working on the train on the way to NYC today. Insight alert: actually decided to save the test files I've been creating in vscode when working on FCC problems so I would have git commit data to show. DUH. This will also be helpful when I need to reference old material on a new problem.
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
 
 ### Day 40: June 28nd, 2018, Thursday
 
@@ -17,11 +31,7 @@
   * completed 6 more FCC exercises
   * working on JavaScript Algorithms: Telephone Number Validator. Sometimes it's nice to grab the low-hanging fruit of passing one test at a time.
 * watching: URL to IRL on the Mexican election. Deeply horrifying. Ethics are intrinsically necessary to technology and it's incredibly immoral to say otherwise (I'm looking at you, Zuckerburg.) "I don't think there's anything more terrifying than corporate America." Yikes. 
-
 * uh oh, found the Odin project. Distraction alert!
-
-TO DO: 
-* get mpaul.us SSL
   
 **Thoughts**: Frustrated coding and missing my more artistic pursuits- photography, blogging, social media... And I'm still not making  money. I need to have a business meeting with myself to figure out how to unblock later today. I KNOW I'm what's holding me back, more than anything else. I have the skills. Also, 4 days to Mexico and I AM FREAKING OUT.
 
