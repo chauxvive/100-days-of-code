@@ -1,15 +1,27 @@
 # 100 Days Of Code - Log
 
 #
+
+### Day 42: June 30nd, 2018, Saturday
+
+**Today's Progress**: 
+* completed: FCC diff between two arrays
+* started FCC Wherefore Art Thou
+* tutored code for 20 minutes (dad)
+  
+**Thoughts**: Tried to rewrite FCC problem as .map and couldn't get it work yet- I still have to practice using that. Two days to Tulum and I am very very nervous. Woke up at six and decided to read about tourist deaths in Mexico- SUPER healthy choice, I'm sure. Brian is on edge too, which makes me feel less nuts, but again, I'm sure once we're on the ground things will be fine. I know I'm overreacting like a crazy person, but I want to be sure we get home safe. Hey, everything you want is on the other side of your comfort zone, right? I can't let fear stop me. In other news, I have NOT been tweeting about my days of code. Time to fess up and start that again.
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+
 ### Day 41: June 29nd, 2018, Friday
 
-**Today's Progress(4-5)**: 
+**Today's Progress**: 
 * completed: FCC using .every, using .some, currying
  * completed FCC Functional programing! Yes! On to intermediate algorithm scripting.
 * listening to: Indie Hackers - Buffer episode
 * tried to redo OSVM. No luck yet still. Quite frustrating.
  * update: haphazardly had it running one more time in the background (3rd install attempt on this 5th version) and it worked!!
- 
   
 **Thoughts**: Working on the train on the way to NYC today. Insight alert: actually decided to save the test files I've been creating in vscode when working on FCC problems so I would have git commit data to show. DUH. This will also be helpful when I need to reference old material on a new problem.
 
@@ -18,7 +30,7 @@
 
 ### Day 40: June 28nd, 2018, Thursday
 
-**Today's Progress(4-5)**: 
+**Today's Progress**: 
 * My work yesterday somehow corrupted my graphics card driver => no videos playing on my machine. Fixed.
 * back to FCC: 
   * completed .myMap method! great use of "this".
@@ -40,7 +52,7 @@
 
 ### Day 39: June 27nd, 2018, Wednesday
 
-**Today's Progress(4-5)**: 
+**Today's Progress**: 
 * fighting with iOS virtual machine install
   * hours of reading, fixing other permission read/write errors, changing Bios settings, restarting, changing other settings, figuring out other errors
   * installing High Sierra! My beautiful virtual machine! It actually booted up and installed!
