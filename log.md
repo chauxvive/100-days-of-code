@@ -2,6 +2,33 @@
 
 #
 
+### Day 44: July 2nd, 2018, Monday
+
+**Today's Progress**: 
+* trucking away on my FCC product page. It's taking me way longer than I'd have thought to make it responsive properly. I am clearly not used to mobile first, even though it makes perfect sense in theory. I built it how I wanted it large first... and of course now am fighting to fix it so it looks perfect on small screens. I'm getting there. 
+  
+**Thoughts**: Holy smokes, we leave tonight for Mexico! I'm only able to work a few minutes at a time (albeit persistantly). I know I'll have plenty of time at the airport and on the plane.  
+
+**Links to work:**
+1. [Responsive Nav Bar build](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+
+### Day 43: July 1st, 2018, Sunday
+
+**Today's Progress**: 
+* worked on FCC wherefore art thou for 20 minutes without realizing I had forgotten which problem I was solving and was creating a solution to the previous problem. Awkward. On the bright side, I found a way that's a lot easier than the last version, so there's that I guess? Then started working on it actually before switching gears back to-
+* Responsive Design projects: product page
+    * it's time for me to get this certificate. I only need to complete two projcts and style one and, on seeing the work of others, I see I am clearly overthinking this and being too much of a perfectionist.
+    * working on nav bar. If I can get that done today via flexbox, I'll be doing great.
+    * Update: I got it beautiful in full-size... only to remember I was going to do this mobile first. So now I'm fighting to fix it.
+  
+**Thoughts**: On the train to NYC going to pick up my (now prescription) glasses. I have so much to do.
+  * Waaaaaah- I haven't done front end in so long I feel like I've forgotten literally everything. Need a quick refresh on Grid/flexbox
+  
+
+**Links to work:**
+1. [Free Code Camp](https://www.freecodecamp.org/portfolio/chauxvive)
+2. [Responsive Nav Bar build](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+
 ### Day 42: June 30nd, 2018, Saturday
 
 **Today's Progress**: 
