@@ -1,13 +1,25 @@
 # 100 Days Of Code - Log
 
 #
+### Day 44.5: July 12th, 2018, Thursday
+
+**Today's Progress**: 
+* Extremely pleased to have figured out my beautifully responsive FCC product page nav bar, and much faster than I would have without my break. I was pretty burnt out. This time, it was easy- a few hours and beautiful. Now I just have to remember what I wanted the rest of it to look like, heh.
+* Tomorrow (proverbially) I will integrate this fresh nav in with the rest of the framework.
+* Life hack: changing body colors as a temporary marker of @media calls so you can pinpoint exactly where things go wrong. No one wants to have to guess.
+  
+**Thoughts**: Yeah, you read that right- it's been ten days. Ten days of Mexico, friend, ten days of trying to communicate properly in Mexican Spanish, trying not to get food poisoning, trying to get safe accommodation, trying not to get hustled, trying not to get zika, trying to find wifi and decent coffee... I am unashamed that I haven't touched any code in that time. In fact I am only coding today because I caught a cold and am stuck at the hotel resting. I am getting comfortable in Tulum, however, for the sake of the streak, any more coding I get done this trip will be "bonus" time. I won't even count this as 1/100 days, until I get back and am ready to continue. Frankly, life is short. My dad started (probably permanent) chemo yesterday, his fiance (gf of 23 years) may have metasticized cancer, my uncle's sudden tongue cancer diagnosis turns out to not be stage 2 but stage 4. Rough times all around and I will mentally do what I need to get through, unashamed. It's a bit much. 
+
+**Links to work:**
+1. [Responsive Nav Bar build](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+
 
 ### Day 44: July 2nd, 2018, Monday
 
 **Today's Progress**: 
 * trucking away on my FCC product page. It's taking me way longer than I'd have thought to make it responsive properly. I am clearly not used to mobile first, even though it makes perfect sense in theory. I built it how I wanted it large first... and of course now am fighting to fix it so it looks perfect on small screens. I'm getting there. 
   
-**Thoughts**: Holy smokes, we leave tonight for Mexico! I'm only able to work a few minutes at a time (albeit persistantly). I know I'll have plenty of time at the airport and on the plane.  
+**Thoughts**: Holy smokes, we leave tonight for Mexico! I'm only able to work a few minutes at a time (albeit persistantly). I know I'll have plenty of time at the airport and on the plane. (spoiler alert: I did not...)
 
 **Links to work:**
 1. [Responsive Nav Bar build](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
