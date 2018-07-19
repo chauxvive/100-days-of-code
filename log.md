@@ -1,7 +1,81 @@
 # 100 Days Of Code - Log
 
 #
-### Day 44.5: July 12th, 2018, Thursday
+### Day 47: July 17nd, 2018, Thursday
+
+**Today's Progress**: 
+
+* FCC product page - 
+    * fixed form so it passes
+    * 14/16 tests passing :/ Time to ask stack exchange.
+    * I did NOT style the form. Forget it, get it done, get it out, move on, fix later.
+    * In the meanwhile, I submitted it as it fufills all the user stories. We'll see if it matters.
+    
+* FCC Technical documentation page - 
+    * started. Let's do this.
+  
+**Thoughts**: Gotta get this done... it's been a tough week. Now, can I get the credit without passing the mocha tests...? Ugh. Just thinking about starting this new project makes me sad. Or maybe it's because I haven't eaten today. I think I'll start there and see if my attitude improves (spoiler alert: it will.)
+
+**Links to work:**
+1. [Responsive page in progress](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+
+### Day 46: July 17nd, 2018, Wednesday
+
+**Today's Progress**: 
+
+* FCC product page - 
+    * built and added video (doesn't pass for some reason) 
+    * added proto-form
+    * made header sticky (also doesn't pass for some reason)
+    * passing 12/16 tests :/
+  
+**Thoughts**: Gotta get this done... it's been a tough week. Now, can I get the credit without passing the mocha tests...?
+
+**Links to work:**
+1. [Responsive page in progress](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+
+### Day 45: July 17nd, 2018, Tuesday
+
+**Today's Progress**: 
+
+* FCC product page - 
+    * more cleanup and continuing to build the page
+    * passing 8/16 tests
+  
+**Thoughts**: I'm being a perfectionist on this, for better and worse.
+
+**Links to work:**
+1. [Responsive page in progress](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+
+
+### Day 44: July 16nd, 2018, Monday
+
+**Today's Progress**: 
+
+* FCC product page - 
+    * tweaking a few things to make it more beautiful 
+    * nav and main image look good, moving onto the "art" section, need to figure out how I'll do a "video"
+    * having spent a few days away, started trying to segment it in a "cleaner" way- undid so much good work, I gave up and decided to do better next project instead. Done is better than perfect, here.
+    * kept working and rebuilding the main sections of the page
+  
+**Thoughts**: I'm back home! Super pumped about coding, if still jetlagged (slightly more complicated than that but that's good shorthand- still sick, several days no sleep, hungover, leftover mexican GI issues....yikes.) As soon as I get less hungover-death feeling, I'm going to kick some ass today. Already started. Went to the Bowie exhibit yesterday and I'm thrilled. I've got Aladdin Sane blasting. I feel like garbage but I REMEMBER IT IS TRASH CAN NOT TRASH CANNOT. 
+
+**Links to work:**
+1. [Responsive page in progress](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+
+### Day 44.2: July 13th, 2018, Thursday
+
+**Today's Progress**: 
+* FCC product page is coming along and looks really good. I need much more practice with reactive design to be fast, but I'm sure that will come with practice and time.
+  
+**Thoughts**: The perfect is the enemy of the good. Got to get this done, get the tech specs page done, and get my responsive design cert so I can move on with life and get the javascript one next. Here I am, coding in a very lovely mexican cafe as the rain pours outside. 300 twitter followers today, which is nice I guess, obviously I haven't been pushing it.
+
+**Links to work:**
+1. [Responsive Product Page Build](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+2.[The site I'm cloning and will then change up](https://www.benhamimages.com/)
+
+
+### Day 44.1: July 11th, 2018, Wednesday
 
 **Today's Progress**: 
 * Extremely pleased to have figured out my beautifully responsive FCC product page nav bar, and much faster than I would have without my break. I was pretty burnt out. This time, it was easy- a few hours and beautiful. Now I just have to remember what I wanted the rest of it to look like, heh.
