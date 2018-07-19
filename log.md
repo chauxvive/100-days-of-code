@@ -17,7 +17,8 @@
 **Thoughts**: Gotta get this done... it's been a tough week. Now, can I get the credit without passing the mocha tests...? Ugh. Just thinking about starting this new project makes me sad. Or maybe it's because I haven't eaten today. I think I'll start there and see if my attitude improves (spoiler alert: it will.)
 
 **Links to work:**
-1. [Responsive page in progress](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+1. [Responsive page](https://codepen.io/mpauldesigns/pen/LrqBOQ?editors=1100)
+2. [Technical documentation page in progress](https://codepen.io/mpauldesigns/pen/OEWxqQ)
 
 ### Day 46: July 17nd, 2018, Wednesday
 
