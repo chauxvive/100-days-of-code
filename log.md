@@ -2,10 +2,55 @@
 
 #
 
+### Day 4 August 27th, 2018, Monday
+
+**Today's Progress**: 
+
+* FCC technical documentation page
+    * Formatting away my content so it looks nice. Long way to go.
+    * I may have bitten off more than I can chew trying to put the whole 12 intro sections in here- maybe I should minimize to the first 5 sections and focus on doing those well then moving on.... 
+    * cut it down to 5 sections to not drive myself nuts unneccesarily.
+    * learned more about the <code> tag
+    
+**Thoughts**: Having two and a half pots of caffeinated tea was a HUGE mistake. I was up until three with anxiety, nausea, and stomach distress, then up with Brian when he woke this morning. The only thing worse than keeping myself up is knowing I'm disturbing his sleep too when he needs it so much. Hellish. Today, of course, I feel awful. Tried to nap. No go. Got up and got to work. With any luck, I will get some stuff done and take a nap later, but clearly I've damaged my efficiency today. I'm going to cut out caffeine and alcohol for a while until my body stabilizes some. 
+
+**Links to work:**
+
+1. [Technical documentation page in progress](https://codepen.io/mpauldesigns/pen/OEWxqQ)
+
+
+### Day 3 August 26th, 2018, Sunday
+
+**Today's Progress**: 
+
+* FCC technical documentation page
+    * Fixing formatting issues. Need to get the sticky left nav to work right, but I'm going to put in some content first
+    * Adding content from the React Documentation page. Since React is my next learning goal, I might as well make sure I read the documentation really carefully. Formatting this is codepen is super slow. I look forward to doing more with pug and working on my own in the future. The worst within codepen is when auto-complete "corrects" tags you do NOT want to change (matching the wrong pairs). Super frustrating.
+    * Been reviewing Wes Bos' flexbox course as little as I can get away with to remind myself how to do this (no distractions from mindless watching videos. Get coding.) Flexbox is definitely coming back to me but the only way to keep it there is to use it.
+    
+**Thoughts**: The documentation page is really coming along. Worked some in the morning and some at Dobra Tea Northampton, my favorite teahouse. I drive almost two hours just to visit there. It's a great place to sit and work all day, because the tea is great, you have a bell to bring a waiter over when you want more tea, wifi is good, and no one bothers you about sitting there and working all day. Ambiance is fantastic.
+
+**Links to work:**
+
+1. [Technical documentation page in progress](https://codepen.io/mpauldesigns/pen/OEWxqQ)
+
+
+### Day 2, Round 1.3: August 25th, 2018, Saturday
+
+**Today's Progress**: 
+
+* FCC technical documentation page
+    * working on styling the overall pieces. Still feel like I'm beating flexbox into submission but it's certainly getting easier as I go along. Gets easier the more and more often you build, right? Second nature in no time.
+  
+**Thoughts**: Cranked out over half an hour by sneaking out of bed before Brian got up this morning, then worked again at night. If I break it into half hour increments, an hour is incredibly easy. Needs to be focused, though.
+
+**Links to work:**
+
+1. [Technical documentation page in progress](https://codepen.io/mpauldesigns/pen/OEWxqQ)
+
 ### Day 1, Round 1.3: August 24th, 2018, Friday
 
 **Today's Progress**:
-
 * Cranked away at the technical documentation project for FCC. 
    * Made demo pass almost all of the tests before I began styling. 
    * Got to work styling. With all the gap time, every time with flexbox feels like the first time :(
