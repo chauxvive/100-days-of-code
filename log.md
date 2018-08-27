@@ -6,13 +6,16 @@
 
 **Today's Progress**: 
 
-* FCC technical documentation page
+* FCC technical documentation page:
     * Formatting away my content so it looks nice. Long way to go.
     * I may have bitten off more than I can chew trying to put the whole 12 intro sections in here- maybe I should minimize to the first 5 sections and focus on doing those well then moving on.... 
     * cut it down to 5 sections to not drive myself nuts unneccesarily.
-    * learned more about the <code> tag
+    * learned more about the <code> tag. On my 3rd section of editing the code with Pre and &lt;s. Taking a break after an hour and a half this morning to come back in a bit. 
+   
+* Career plans
+   * Looking back at my FCC product page, I'm so proud of how it looks, honestly. It's nice when there are projects you really like. My Feynman page I think looks really professional as well. I spent some time yesterday thinking about exactly what my portfolio looks like. In my job, in a kind of good-news-bad-news cycle, I didn't get a new title (hiring freeze for the state) as Artist in Residence (boo), however I did get a huge raise (yay!), however two days later the boss I love (yay) quit (boo) and my new direct supervisor is someone I have had difficultly working with in the past (major boo). This means I'll get through the semester and then may not choose to continue on for the rest of the year. After much soul searching yesterday and talking to Brian, I decided that means I try and get a React developer gig by January. Whoa. If I hate it, so what? I need to take it seriously and give it a shot. Even if I worked six months, the dent that kind of money could make on our lives... is huge. And I can't let my dad being sick make my excuses for living a "safe" life and not doing the things I need to do. Bravo to Brian for calling me out on my bullshit in a kind way. Also been reading "The Achievement Habit" which is a hell of a bullshit buster.
     
-**Thoughts**: Having two and a half pots of caffeinated tea was a HUGE mistake. I was up until three with anxiety, nausea, and stomach distress, then up with Brian when he woke this morning. The only thing worse than keeping myself up is knowing I'm disturbing his sleep too when he needs it so much. Hellish. Today, of course, I feel awful. Tried to nap. No go. Got up and got to work. With any luck, I will get some stuff done and take a nap later, but clearly I've damaged my efficiency today. I'm going to cut out caffeine and alcohol for a while until my body stabilizes some. 
+**Thoughts**: Having two and a half pots of caffeinated tea was a HUGE mistake. I was up until three with anxiety, nausea, and stomach distress, then up with Brian when he woke this morning. The only thing worse than keeping myself up is knowing I'm disturbing his sleep too when he needs it so much. Hellish. Today, of course, I feel awful. Tried to nap. No go. Got up and got to work. With any luck, I will get some stuff done and take a nap later, but clearly I've damaged my efficiency today. I'm going to cut out caffeine and alcohol for a while until my body stabilizes some. Code first, sleep after.
 
 **Links to work:**
 
