@@ -11,6 +11,11 @@
     * I may have bitten off more than I can chew trying to put the whole 12 intro sections in here- maybe I should minimize to the first 5 sections and focus on doing those well then moving on.... 
     * cut it down to 5 sections to not drive myself nuts unneccesarily.
     * learned more about the <code> tag. On my 3rd section of editing the code with Pre and &lt;s. Taking a break after an hour and a half this morning to come back in a bit. 
+   * another hour of code today formatting the main content. Blam. 14/16 tests passing. Pretty much just need to make the nav bar sticky, add a media query and I'm done. 
+   * Dang, now how do I make sure it bumps down to the right height in mobile if I had to pad it down...hm...that can be for later.
+
+* I FINISHED IT. I DID ANOTHER HOUR AND I'M DONE WITH MY RESPONSIVE DESIGN CERT!!! 
+   * Took way longer than I needed to but I don't even care, I'm still mega proud. My last project looks good too! Soooo happy!
    
 * Career plans
    * Looking back at my FCC product page, I'm so proud of how it looks, honestly. It's nice when there are projects you really like. My Feynman page I think looks really professional as well. I spent some time yesterday thinking about exactly what my portfolio looks like. In my job, in a kind of good-news-bad-news cycle, I didn't get a new title (hiring freeze for the state) as Artist in Residence (boo), however I did get a huge raise (yay!), however two days later the boss I love (yay) quit (boo) and my new direct supervisor is someone I have had difficultly working with in the past (major boo). This means I'll get through the semester and then may not choose to continue on for the rest of the year. After much soul searching yesterday and talking to Brian, I decided that means I try and get a React developer gig by January. Whoa. If I hate it, so what? I need to take it seriously and give it a shot. Even if I worked six months, the dent that kind of money could make on our lives... is huge. And I can't let my dad being sick make my excuses for living a "safe" life and not doing the things I need to do. Bravo to Brian for calling me out on my bullshit in a kind way. Also been reading "The Achievement Habit" which is a hell of a bullshit buster.
