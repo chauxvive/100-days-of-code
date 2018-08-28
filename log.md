@@ -2,6 +2,22 @@
 
 #
 
+### Day 5 August 28th, 2018, Tuesday
+
+**Today's Progress**: 
+
+12-12:30am
+
+* JavaScript Algorithms- telephone validator
+    * oh god so much regex. Again I feel looking at this like I've never done this before when I know very well I have. Ugh. Once I remember it should be fast. Plus, only this and ONE other challenge and I will have my second FCC cert! Sooooooo driven right now.
+    
+**Thoughts**: Did the sheet for the CodeNewbie 2018 challenge, first exercises for project find-a-job. Helpful stuff. 
+
+**Links to work:**
+
+1. [Telephone Validator in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
+
+
 ### Day 4 August 27th, 2018, Monday
 
 **Today's Progress**: 
@@ -24,7 +40,7 @@
 
 **Links to work:**
 
-1. [Technical documentation page in progress](https://codepen.io/mpauldesigns/pen/OEWxqQ)
+1. [Technical documentation page](https://codepen.io/mpauldesigns/pen/OEWxqQ)
 
 
 ### Day 3 August 26th, 2018, Sunday
