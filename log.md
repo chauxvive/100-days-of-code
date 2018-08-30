@@ -1,15 +1,34 @@
 # 100 Days Of Code - Log
 
 #
+### Day 6 August 29th, 2018, Wednesday
 
+**Today's Progress**: 
+
+* JavaScript Algorithms- telephone validator- finished this but...still need to review regex. I hates it. So much.
+* JavaScript Algorithms- Cash Register
+   * started this. Long way to go but it's my last problem for the section by golly...
+   
+Bonus: Treehouse talk on "Breaking Into Startups" podcast. More articles on getting a job.   
+    
+**Thoughts**: Worked 10-8:30 today an hour away with backbreaking labor (so 12.5 hr day.) Yuck. Got to get to bed so I can get up and head back. Forced myself to get up and code for an hour before sleep anyway. I need to take this stuff seriously. One more freaking exercise for this section, man, just one and I'm not going to cheat no matter how tempting. I can do this. Then I can blaze through the next part...! I should find a hackathon to compete in. There's an asynchronous JS workshop tomorrow evening in New Haven I'm going to try to get to, work and body permitting. Sorry, body...
+
+**Links to work:**
+
+1. [Telephone Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+
+https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
 ### Day 5 August 28th, 2018, Tuesday
 
 **Today's Progress**: 
 
-12-12:30am
 
 * JavaScript Algorithms- telephone validator
     * oh god so much regex. Again I feel looking at this like I've never done this before when I know very well I have. Ugh. Once I remember it should be fast. Plus, only this and ONE other challenge and I will have my second FCC cert! Sooooooo driven right now.
+    
+* Adobe XD tutorial - can't wait to play more with this. Lots of fun here.
     
 **Thoughts**: Did the sheet for the CodeNewbie 2018 challenge, first exercises for project find-a-job. Helpful stuff. 
 
