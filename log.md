@@ -1,6 +1,50 @@
 # 100 Days Of Code - Log
 
 #
+### Day 9 August 31st, 2018, Friday
+
+**Today's Progress**: 
+
+* JavaScript Algorithms- Cash Register
+   * 
+   
+**Thoughts**: 
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+
+### Day 8 August 31st, 2018, Friday
+
+**Today's Progress**: 
+
+* JavaScript Algorithms- Cash Register
+   * Passed the first test and am working on the next problem: returning the correct change.
+   * Added an array of coin values
+   * worked on the change problem on a notebook in pseudocode. That helps every time.
+* started the Lynda database courses lectures. Wow, this is helpful. I appreciate a more in-depth understanding of databases before I start depending heavily on them.   
+    
+**Thoughts**: 
+I figured out immediately my mistake switching out of terminal- I was still using console.log instead of return (duhhhhh). All coding problems should be so easy! Now the next problem- calculating change. This is going to take more diagramming. Well, I might as well tell it the values of the coins, it'll need that info. Boy am I tempted to take a quick Ruby break or something fun.
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+### Day 7 August 30th, 2018, Thursday
+
+**Today's Progress**: 
+
+* JavaScript Algorithms- Cash Register
+   * fighting with this. Trying to build it piece by piece (in some cases, BDD, test by test.) I looked at the problem and even had difficulty understanding what it was asking for, never mind how to execute it. Spent more time than I'd like to admit reviewing very simple JS (I mean VERY simple). it's been too long since I worked on these. By the end of the first day, I am changing responses and working with .reduce to get the change totals. 
+    
+**Thoughts**: Jesus, why does this feel like beating my head against a wall? Even the few problems before this were simple to understand in comparison. By the end of the day, I was able to get it to correctly calculate the amount of change in the drawer and give proper responses (Have not started calculating actual change yet.) Really annoying- although I'm getting close to the right object in VScode responses on the console, I'm not getting it in browser and therefore not passing the first test. I feel so disheartened looking at this. Also, I keep calling myself "a React Developer" when I haven't been working in any React. After I get this cert, I'm going to either work on the Wes Bos 30 days of JS course or go balls first into a React course. I have done some React, but not enough to feel familiar with it. Am I really serious about getting a React gig by January? (yes.) Is this really possible? (also yes, you just have to commit and work like hell.) Sometimes self-talk can be really helpful, even if it means bringing your demons out into the open so you can fight them first hand. If I don't honestly talk about my secret failure thoughts with my husband or in writing to myself, I quietly defeat myself with half-hearted "goals" and passive aggressive putting-off. Becoming a developer honestly scares me. That's ok. I'm going to go ahead and do it anyway. Sat and thought about the problem in the car, diagramming it out and using psuedo code to figure out how I'm really going to solve this problem. It helped a lot.
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
 ### Day 6 August 29th, 2018, Wednesday
 
 **Today's Progress**: 
@@ -16,7 +60,7 @@ Bonus: Treehouse talk on "Breaking Into Startups" podcast. More articles on gett
 **Links to work:**
 
 1. [Telephone Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
-1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+2. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
 
 https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
