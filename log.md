@@ -1,6 +1,37 @@
 # 100 Days Of Code - Log
 
 #
+
+### Day 1 September 15, 2018, Saturday
+
+**Today's Progress**: 
+
+* "Emergency Triage Database Project"
+   * formalized my notes on the failures of the app in existence
+   * created notes on the needs of the new app
+
+**Thoughts**:
+   * After working with a certain volunteer rescue cooperative on a second storm, I was really unhappy with the new app they developed for it. Frankly, it broke, badly. And because it broke, the system didn't work, the calls backed up, it became impossible to keep track of data, and government agencies, users, dispatchers, and admins all got really frustrated at each other and basically broke down in the middle of a hurricane. It was an excellent study in UX failure. I took notes at the beginning, hoping to give the developers feedback to improve the app having spent so much time myself as a dispatcher....and I saw them take feedback (from others, I hadn't even gotten there yet) very poorly. Even as the app literally stopped functioning and people started building parallel systems or quitting the project entirely out of frustration, they were still so involved in their own egos they would rather kick people out of the zello group than acknowledge that, like every release of a new project, they had bugs. Amazing.
+
+What's the worst thing a developer can do when offered negative UX feedback? That's right- get mad at your users. 
+
+The purpose of the app is to take down information from people who need rescue or wellness checks to take some of the pressure off when federal agencies can't keep up (like 100 year storms.) The dispatchers can then direct local volunteers in the area to help out these people when 911 cannot. Ideally, it's a system supporting local and federal agencies on the scene and in no way trying to supplant or get in the way. I knew such an app was required when the group was helping out during Harvey and local agencies were completely overwhelmed. At that time all we had to work with was a google map and spreadsheet document.
+
+Second UX lesson learned: A complicated system that users can figure out easily is far better to a simple system that's counterintuitive.
+
+Here are some of the design/UX failures immediately apparent on using the app:
+ 1) The biggest sin: There is no way to sort or toggle open and closed tickets. 
+ 2) The second-biggest sin: "Rescue" icons are not color coded by need (red:emergency, yellow:needed, green:not urgent/safe)
+    These two items together make the app IMPOSSIBLE. It's a map with a sea of black icons. It's impossible to know what has and has not been addressed. Once someone is marked as "rescued" they were also NOT taken out of the system. WHAT?? (I agree they should be archived, but you can't just keep them on the map with everything else like that.) 
+ 3) Hovering over a map point gave no information. The only way to access it was to click on a black point on the map and find out when it popped up who and what it was.
+ 
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+
+
 ### Day 9 August 31st, 2018, Friday
 
 **Today's Progress**: 
