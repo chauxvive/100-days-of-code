@@ -2,6 +2,20 @@
 
 #
 
+### Day 2 September 16, 2018, Sunday
+
+**Today's Progress**: 
+* Sass on Free code camp
+
+**Thoughts**:
+* Taking a breather this morning by moving on to my next section to complete via FCC, front end libraries up to Sass, instead of working on that last JS problem. I'm hoping it's my warm-up, but we'll see. I have a lot of work to get done today. I got my first non-spam looking request for a full-stack designer via email. I'm so nervous I haven't responded yet. I need to set goals like, 25 interview rejections by December first. The rejection fears, imposter syndrome, and fear of failure are all so real! I've got to talk to some mentors about how to prep and what to do with my portfolio. And what kind of jobs to apply to. So many questions.
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+  
+
 ### Day 1 September 15, 2018, Saturday
 
 **Today's Progress**: 
