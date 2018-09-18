@@ -2,11 +2,13 @@
 
 #
 
-### Day 2 September 16, 2018, Sunday
+### Day 2 September 18, 2018, Tuesday
 
 **Today's Progress**: 
-* Sass on Free code camp
-  * completed all 10 exercises. Well-reminded why I like SASS. The challenge, however, will be practicing using it.
+* Sass on Free Code Camp
+  * completed all 10 exercises. Well-reminded why I like SASS. The challenge, however, will be practicing using it. I guess I could just start with CSS and slowly work in SASS components...
+ * React on Free Code Camp
+  * At last! 
 
 **Thoughts**:
 * Taking a breather this morning by moving on to my next section to complete via FCC, front end libraries up to Sass, instead of working on that last JS problem. I'm hoping it's my warm-up, but we'll see. I have a lot of work to get done today. I got my first non-spam looking request for a full-stack designer via email. I'm so nervous I haven't responded yet. I need to set goals like, 25 interview rejections by December first. The rejection fears, imposter syndrome, and fear of failure are all so real! I've got to talk to some mentors about how to prep and what to do with my portfolio. And what kind of jobs to apply to. So many questions.
@@ -17,7 +19,7 @@
 
   
 
-### Day 1 September 15, 2018, Saturday
+### Day 1 Round 1.4 September 17, 2018, Monday
 
 **Today's Progress**: 
 
@@ -39,6 +41,8 @@ Here are some of the design/UX failures immediately apparent on using the app:
  2) The second-biggest sin: "Rescue" icons are not color coded by need (red:emergency, yellow:needed, green:not urgent/safe)
     These two items together make the app IMPOSSIBLE. It's a map with a sea of black icons. It's impossible to know what has and has not been addressed. Once someone is marked as "rescued" they were also NOT taken out of the system. WHAT?? (I agree they should be archived, but you can't just keep them on the map with everything else like that.) 
  3) Hovering over a map point gave no information. The only way to access it was to click on a black point on the map and find out when it popped up who and what it was.
+ 
+This seems like a good demo project for me, no matter how far it goes. 
  
 
 **Links to work:**
