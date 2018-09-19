@@ -2,15 +2,27 @@
 
 #
 
+### Day 4 September 20, 2018, Thursday
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
 ### Day 3 September 19, 2018, Wednesday
 
 **Today's Progress**: 
 
  * React on Free Code Camp
   * 14/48 completed
+ * Updated VScode, which meant uninstall and reinstall (whomp whomp)
+  * I've got to get back to doing my FCC exercises here, not just for the git streak but for a record of these basic React snippets I keep forgetting how to use. I used to be able to reference my old exercises within the site itself but I can't seem to do that now. Wonder why.
 
 **Thoughts**:
-* Ripping through this React module. Had an awkward moment today when I realized I had no idea what DevOps actually is. 
+* Ripping through this React module. Had an awkward moment today when I realized I had no idea what DevOps actually is. Engaging in some good stuff on the newhaven.io slack channel today as well. Feels like a good day today, especially after how crazy productive I was yesterday.
 
 **Links to work:**
 
