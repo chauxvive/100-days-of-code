@@ -2,11 +2,29 @@
 
 #
 
+### Day 5 September 21, 2018, Friday
+
+**Today's Progress**: 
+
+* React on Free Code Camp:
+ * 19/48 completed
+
+**Thoughts**:
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
 ### Day 4 September 20, 2018, Thursday
 
 **Today's Progress**: 
 
+* React on Free Code Camp:
+ * 19/48 completed
+* Linking to git again, properly. Tweeting my days again, properly. THIS time I'm trying to get ahead of myself instead of behind.
+
 **Thoughts**:
+Came across someone else's way of organizing these projects and it was very drool-worthy. Welp, I can start where I am and try and get a job and then fancy things up later. Can't let my perfectionism get in my way. On the bright side, it's nice to look at my projects and really enjoy my own design. Back end is great, but if you front end doesn't look good...well... It's embarrassing to show off. Can't really avoid front end when you're first starting out.
 
 **Links to work:**
 
