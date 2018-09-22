@@ -2,12 +2,33 @@
 
 #
 
+### Day 6 September 22, 2018, Saturday
+
+**Today's Progress**: 
+.5hrs
+
+* React on Free Code Camp:
+ * 20/48 completed
+ * debugging a few files
+ * learning about git status within VSCode
+ 
+
+**Thoughts**:
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+
 ### Day 5 September 21, 2018, Friday
 
 **Today's Progress**: 
+.5hrs
 
 * React on Free Code Camp:
- * 19/48 completed
+ * 20/48 completed
+ * reviewing git commands and shortcuts in vscode
+ 
 
 **Thoughts**:
 
