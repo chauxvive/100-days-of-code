@@ -26,11 +26,12 @@
 .5hrs
 
 * React on Free Code Camp:
- * 20/48 completed
+ * 22/48 completed
  * reviewing git commands and shortcuts in vscode
  
 
 **Thoughts**:
+* I'm not getting React as fast as I'd like, but I know it'll get easier the more I use it. It's frustrating because I think I'm a little distracted and tired while doing this so it's not as simple as it should be. I'm so close....
 
 **Links to work:**
 
