@@ -2,18 +2,32 @@
 
 #
 
-### Day 6 September 22, 2018, Saturday
+### Day 7 September 23, 2018, Sunday
+(1hr remaining)
 
 **Today's Progress**: 
-.5hrs
 
 * React on Free Code Camp:
- * 20/48 completed
- * debugging a few files
- * learning about git status within VSCode
- 
+ * 25/48 completed
 
 **Thoughts**:
+* Oh boy getting into binding now...definitely something important I haven't worked with enough yet. I have much to learn.
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+
+### Day 6 September 22, 2018, Saturday
+(1hr remaining)
+
+**Today's Progress**: 
+
+* React on Free Code Camp:
+ * 25/48 completed
+
+**Thoughts**:
+* Went sailing then hopped on the train to NYC. Coding here on the train in my now-soaked jeans, but it's not so cold so that's ok.
 
 **Links to work:**
 
@@ -23,15 +37,17 @@
 ### Day 5 September 21, 2018, Friday
 
 **Today's Progress**: 
-.5hrs
 
 * React on Free Code Camp:
- * 22/48 completed
+ * 25/48 completed
  * reviewing git commands and shortcuts in vscode
+ * debugging a few files
+ * learning about git status within VSCode
+ * took the 2018 FCC newbie coders survey
  
 
 **Thoughts**:
-* I'm not getting React as fast as I'd like, but I know it'll get easier the more I use it. It's frustrating because I think I'm a little distracted and tired while doing this so it's not as simple as it should be. I'm so close....
+* Definitely getting these a little faster now. But uh oh- now we're into binding. I haven't really had to deal with that before. It's always exciting when you hit new material you've heard of but haven't understood.
 
 **Links to work:**
 
