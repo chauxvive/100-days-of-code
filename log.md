@@ -3,15 +3,17 @@
 #
 
 ### Day 7 September 23, 2018, Sunday
-(1hr remaining)
+(30m remaining)
 
 **Today's Progress**: 
 
 * React on Free Code Camp:
- * 28/48 completed
+ * 29/48 completed
+ * reading up on binding
+* updated One Thousand Golden Highways
 
 **Thoughts**:
-* Oh boy getting into binding now...definitely something important I haven't worked with enough yet. I have much to learn.
+* I haven't written a new blog post since February (shame cloud) but that's when I started coding pretty much full time and put literally everything else to the side. My life since then has been 
 
 **Links to work:**
 
@@ -26,7 +28,7 @@
  * 28/48 completed
 
 **Thoughts**:
-* Went sailing then hopped on the train to NYC. Coding here on the train in my now-soaked jeans, but it's not so cold so that's ok. Definitely getting React better every exercise. Having to look things up less (yay). Getting better at troubleshooting React. Had a dream last night where I was building something and got really excited because "ohh I could just rebuild this is React and it would be so easy!" May those realizations come to me in waking life some day!
+* Went sailing then hopped on the train to NYC. Coding here on the train in my now-soaked jeans, but it's not so cold so that's ok. Oh boy getting into binding now...definitely something important I haven't worked with enough yet. I have much to learn.  Definitely getting React better every exercise. Having to look things up less (yay). Getting better at troubleshooting React. Had a dream last night where I was building something and got really excited because "ohh I could just rebuild this is React and it would be so easy!" May those realizations come to me in waking life some day!
 
 **Links to work:**
 
