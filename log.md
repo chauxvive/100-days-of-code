@@ -8,7 +8,7 @@
 **Today's Progress**: 
 
 * React on Free Code Camp:
- * 25/48 completed
+ * 28/48 completed
 
 **Thoughts**:
 * Oh boy getting into binding now...definitely something important I haven't worked with enough yet. I have much to learn.
@@ -19,15 +19,14 @@
 
 
 ### Day 6 September 22, 2018, Saturday
-(1hr remaining)
 
 **Today's Progress**: 
 
 * React on Free Code Camp:
- * 25/48 completed
+ * 28/48 completed
 
 **Thoughts**:
-* Went sailing then hopped on the train to NYC. Coding here on the train in my now-soaked jeans, but it's not so cold so that's ok.
+* Went sailing then hopped on the train to NYC. Coding here on the train in my now-soaked jeans, but it's not so cold so that's ok. Definitely getting React better every exercise. Having to look things up less (yay). Getting better at troubleshooting React. Had a dream last night where I was building something and got really excited because "ohh I could just rebuild this is React and it would be so easy!" May those realizations come to me in waking life some day!
 
 **Links to work:**
 
