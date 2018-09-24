@@ -7,7 +7,7 @@
 **Today's Progress**: 
 
 * React on Free Code Camp:
- * 35/48 completed 
+ * 38/48 completed 
 
 **Thoughts**:
 
