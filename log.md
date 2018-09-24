@@ -3,17 +3,18 @@
 #
 
 ### Day 7 September 23, 2018, Sunday
-(30m remaining)
+(15m remaining)
 
 **Today's Progress**: 
 
 * React on Free Code Camp:
- * 29/48 completed
+ * 30/48 completed
  * reading up on binding
+ * I've been doing several of these over from scratch a few times to make sure I really get what's happening and it's definitely paying off. I might restart from the beginning so I have all the exercises in my git folder. SUCH a good feeling when you start really getting a new tool and can start troubleshooting without feeling helpless.
 * updated One Thousand Golden Highways
 
 **Thoughts**:
-* I haven't written a new blog post since February (shame cloud) but that's when I started coding pretty much full time and put literally everything else to the side. My life since then has been 
+* I haven't written a new blog post since February (shame cloud) but that's when I started coding pretty much full time and put literally everything else to the side. My life since then has been coding, photography, and hustle hustle hustle. Big change though, and I'm really proud. 
 
 **Links to work:**
 
