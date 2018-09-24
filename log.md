@@ -2,13 +2,26 @@
 
 #
 
-### Day 8 September 24, 2018, Monday
-(30m remaining)
+### Day 9 September 25, 2018, Tuesday
 
 **Today's Progress**: 
 
 * React on Free Code Camp:
- * 34/48 completed
+ * 35/48 completed 
+
+**Thoughts**:
+
+**Links to work:**
+
+1. [Cash Register in Progress](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
+### Day 8 September 24, 2018, Monday
+
+**Today's Progress**: 
+
+* React on Free Code Camp:
+ * 37/48 completed
+* got Tor and read up a lot on that and how it works (internet security wheeee) 
 
 **Thoughts**:
 * Have I mentioned I'm allowing myself to get slightly ahead on these challenges to buffer the days I can't reach the computer? It has helped a lot- and kept me more motivated. If I feel like I can keep going, spending an extra half hour that I know gets me ahead the next day is more meaningful. Before I could only make up time after the fact, rather than creating a buffer before. I think this is going to work for me and that's the point, right?
