@@ -10,6 +10,7 @@
  * 45/48 completed 
 
 **Thoughts**:
+* Day 10, that's ten percent right? That's like, a meaningful portion? Coding is going well but I haven't been able to dedicate as much time and effort as I would like and still keep up with my day job and thousand life tasks (hey self, how are those taxes going? did you reregister to vote? How about Brian getting a new car? Do you know what you're doing for his birthday yet? How about Halloween??) Still, it's going. Got to keep pushing on.
 
 **Links to work:**
 
