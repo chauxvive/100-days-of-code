@@ -1,15 +1,28 @@
 # 100 Days Of Code - Log
 
 #
+### Day 10 September 26, 2018, Wednesday
+
+**Today's Progress**:
+1hr remaining
+
+* React on Free Code Camp:
+ * 45/48 completed 
+
+**Thoughts**:
+
+**Links to work:**
+
 
 ### Day 9 September 25, 2018, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**:
 
 * React on Free Code Camp:
- * 38/48 completed 
+ * 45/48 completed 
 
 **Thoughts**:
+* I really want to finish this section but my dad had to put his dog down today so I've got to cut this session short and head up there. I hope I can finish the last three problems soon, I'm so close.
 
 **Links to work:**
 
