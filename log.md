@@ -1,18 +1,44 @@
 # 100 Days Of Code - Log
 
 #
+
+### Day 13 September 28, 2018, Saturday
+40m remaining
+
+**Today's Progress**:
+
+* Redux on FreeCodeCamp
+ * 13/17 complete
+
+**Thoughts**:
+Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. It's one thing to know how, but for people like me, knowing why is the only way we really understanding things. 
+
+**Links to work:**
+
+
+### Day 12 September 27, 2018, Friday
+
+**Today's Progress**:
+
+* Redux on FreeCodeCamp
+ * 13/17 complete
+
+**Thoughts**:
+Getting sick which really sucks. Cancelled my shop hours and dinner with friends. Trying to super-hydrate. Beautiful weather today. Finished reading "Lean In" (also reading: "Salem's Lot". 'Tis the season.) Following lots of interesting people on Twitter- it's a great community for coders. Five problems to go on this section, but I'm losing track of why I'm doing what I'm doing. I will need to find auxilary places to read up on this.
+
+**Links to work:**
+
 ### Day 11 September 27, 2018, Thursday
 
 **Today's Progress**:
-20m remaining
 
 * React on Free Code Camp:
  * 48/48 completed AT LAST AT LAST. On to Redux!
 * Redux on FreeCodeCamp
- * 6/17 complete
+ * 8/17 complete
 
 **Thoughts**:
-Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. It's one thing to know how, but for people like me, knowing why is the only way we really understanding things. Finished reading "Lean In". Following lots of interesting people on Twitter- it's a great community for coders.
+Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. It's one thing to know how, but for people like me, knowing why is the only way we really understanding things. Finished reading "Lean In". Following lots of interesting people on Twitter- it's a great community for coders. My first 7 day git streak. The Durham fair starts today! Unfortunately, I've just caught something...
 
 **Links to work:**
 
