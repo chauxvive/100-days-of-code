@@ -1,13 +1,29 @@
 # 100 Days Of Code - Log
 
 #
+### Day 11 September 27, 2018, Thursday
+
+**Today's Progress**:
+30m remaining
+
+* React on Free Code Camp:
+ * 48/48 completed AT LAST AT LAST. On to Redux!
+ * Redux on FreeCodeCamp
+ * 2/17 
+
+**Thoughts**:
+* Dad had to put his dog down today and so I had to stop everything and go up there. I feel terrible for him and his fiancee.
+
+Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. Finished reading "Lean In". Following lots of interesting people on Twitter- it's a great community for coders.
+
+**Links to work:**
+
 ### Day 10 September 26, 2018, Wednesday
 
 **Today's Progress**:
-1hr remaining
 
 * React on Free Code Camp:
- * 45/48 completed 
+ * 46/48 completed 
 
 **Thoughts**:
 * Day 10, that's ten percent right? That's like, a meaningful portion? Coding is going well but I haven't been able to dedicate as much time and effort as I would like and still keep up with my day job and thousand life tasks (hey self, how are those taxes going? did you reregister to vote? How about Brian getting a new car? Do you know what you're doing for his birthday yet? How about Halloween??) Still, it's going. Got to keep pushing on.
