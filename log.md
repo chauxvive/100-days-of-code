@@ -14,7 +14,7 @@
 **Thoughts**:
 * Dad had to put his dog down today and so I had to stop everything and go up there. I feel terrible for him and his fiancee.
 
-Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. Finished reading "Lean In". Following lots of interesting people on Twitter- it's a great community for coders.
+Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. It's one thing to know how, but for people like me, knowing why is the only way we really understanding things. Finished reading "Lean In". Following lots of interesting people on Twitter- it's a great community for coders.
 
 **Links to work:**
 
