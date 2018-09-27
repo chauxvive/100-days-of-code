@@ -21,7 +21,9 @@ Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also shoul
 **Today's Progress**:
 
 * Redux on FreeCodeCamp
- * 13/17 complete
+ * 17/17 complete, finished Redux section. On to Redux/React.
+* Redux/React on FreeCodeCamp
+ * 0/10 complete, then on to the front end projects which I'm looking forward to...I think.
 
 **Thoughts**:
 Getting sick which really sucks. Cancelled my shop hours and dinner with friends. Trying to super-hydrate. Beautiful weather today. Finished reading "Lean In" (also reading: "Salem's Lot". 'Tis the season.) Following lots of interesting people on Twitter- it's a great community for coders. Five problems to go on this section, but I'm losing track of why I'm doing what I'm doing. I will need to find auxilary places to read up on this.
