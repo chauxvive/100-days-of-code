@@ -16,12 +16,11 @@ Durham fair weekend! I'll make up the rest of this tomorrow morning.
 **Links to work:**
 
 ### Day 13 September 28, 2018, Saturday
-30m remaining
 
 **Today's Progress**:
 
 * React/Redux on FreeCodeCamp
- * 1/10 complete
+ * 3/10 complete
 
 **Thoughts**:
 Durham fair weekend! I'll make up the rest of this tomorrow morning. I spent some time staring at and thinking about my JS cash register problem but haven't made meaningful progress on it. Talked to a coder friend about React, Flutter, Google, and getting work. He's going to talk to some friends at Google in NYC which would be freaking sweet. Better hustle my tail here, huh?
