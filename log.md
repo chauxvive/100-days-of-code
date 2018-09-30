@@ -2,16 +2,29 @@
 
 #
 
-### Day 13 September 28, 2018, Saturday
-40m remaining
+### Day 14 September 29, 2018, Sunday
+1hr remaining
 
 **Today's Progress**:
 
-* Redux on FreeCodeCamp
- * 13/17 complete
+* React/Redux on FreeCodeCamp
+ * 1/10 complete
 
 **Thoughts**:
-Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. It's one thing to know how, but for people like me, knowing why is the only way we really understanding things. 
+Durham fair weekend! I'll make up the rest of this tomorrow morning.
+
+**Links to work:**
+
+### Day 13 September 28, 2018, Saturday
+30m remaining
+
+**Today's Progress**:
+
+* React/Redux on FreeCodeCamp
+ * 1/10 complete
+
+**Thoughts**:
+Durham fair weekend! I'll make up the rest of this tomorrow morning. I spent some time staring at and thinking about my JS cash register problem but haven't made meaningful progress on it. Talked to a coder friend about React, Flutter, Google, and getting work. He's going to talk to some friends at Google in NYC which would be freaking sweet. Better hustle my tail here, huh?
 
 **Links to work:**
 
@@ -23,10 +36,10 @@ Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also shoul
 * Redux on FreeCodeCamp
  * 17/17 complete, finished Redux section. On to Redux/React.
 * Redux/React on FreeCodeCamp
- * 0/10 complete, then on to the front end projects which I'm looking forward to...I think.
+ * 0/10 complete, then on to the front end projects which I'm looking forward to...I think. I definitely look forward to more actual building of things.
 
 **Thoughts**:
-Getting sick which really sucks. Cancelled my shop hours and dinner with friends. Trying to super-hydrate. Beautiful weather today. Finished reading "Lean In" (also reading: "Salem's Lot". 'Tis the season.) Following lots of interesting people on Twitter- it's a great community for coders. Five problems to go on this section, but I'm losing track of why I'm doing what I'm doing. I will need to find auxilary places to read up on this.
+Beautiful weather today. Finished reading "Salem's Lot". 'Tis the season, well, almost. Following lots of interesting people on Twitter- it's a great community for coders. Five problems to go on this section, but I'm losing track of why I'm doing what I'm doing. I will need to find auxilary places to read up on this.
 
 **Links to work:**
 
@@ -40,7 +53,7 @@ Getting sick which really sucks. Cancelled my shop hours and dinner with friends
  * 8/17 complete
 
 **Thoughts**:
-Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. It's one thing to know how, but for people like me, knowing why is the only way we really understanding things. Finished reading "Lean In". Following lots of interesting people on Twitter- it's a great community for coders. My first 7 day git streak. The Durham fair starts today! Unfortunately, I've just caught something...
+Getting sick which really sucks. Cancelled my shop hours and dinner with friends. Trying to super-hydrate. Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. It's one thing to know how, but for people like me, knowing why is the only way we really understanding things. Finished reading "Lean In". Following lots of interesting people on Twitter- it's a great community for coders. My first 7 day git streak. The Durham fair starts today! Finished reading "Lean In". 
 
 **Links to work:**
 
