@@ -1,14 +1,26 @@
 # 100 Days Of Code - Log
 
 #
-
-### Day 14 September 29, 2018, Sunday
+### Day 15 October 1st, 2018, Monday
 1hr remaining
 
 **Today's Progress**:
 
 * React/Redux on FreeCodeCamp
-  * 1/10 complete
+  * 4/10 complete
+
+**Thoughts**:
+Durham fair weekend! I'll make up the rest of this tomorrow morning.
+
+**Links to work:**
+
+### Day 14 September 29, 2018, Sunday
+45m remaining
+
+**Today's Progress**:
+
+* React/Redux on FreeCodeCamp
+  * 4/10 complete
 
 **Thoughts**:
 Durham fair weekend! I'll make up the rest of this tomorrow morning.
