@@ -7,7 +7,7 @@
 **Today's Progress**:
 
 * React/Redux on FreeCodeCamp
-  * 4/10 complete
+  * 8/10 complete
 
 **Thoughts**:
 Durham fair weekend! I'll make up the rest of this tomorrow morning.
@@ -15,15 +15,14 @@ Durham fair weekend! I'll make up the rest of this tomorrow morning.
 **Links to work:**
 
 ### Day 14 September 29, 2018, Sunday
-45m remaining
 
 **Today's Progress**:
 
 * React/Redux on FreeCodeCamp
-  * 4/10 complete
+  * 8/10 complete
 
 **Thoughts**:
-Durham fair weekend! I'll make up the rest of this tomorrow morning.
+Durham fair weekend! Ok, some Redux/React stuff I'm getting really clearly and some is still fuzzy (dispatching, for example) but I guess I'll give it time and practice.
 
 **Links to work:**
 
