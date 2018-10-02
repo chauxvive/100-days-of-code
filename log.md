@@ -18,7 +18,7 @@
 * React/Redux on FreeCodeCamp
   * 8/10 complete
 * Wrote an article for FreeCodeCamp's guide (Basic CSS: "Adding a negative margin")
- * This is my very first pull request! I have lots to get used to.
+  * This is my very first pull request! I have lots to get used to.
 
 **Thoughts**:
 FreeCodeCamp forum is down today :( trying to figure out the penultimate problem...After fighting with it for 30m I'm going to attack it more tonight. (Nope, still down.) I went ahead and wrote my first article for FCC though and thus made my first pull request. 4 to go before a free tshirt- Happy #Hacktober, everyone!
