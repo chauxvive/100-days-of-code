@@ -5,8 +5,8 @@
 
 **Today's Progress**:
 
-* Data Analysis on FreeCodeCamp
-  * 8/10 complete
+* Data Analysis D3 on FreeCodeCamp
+  * 16/27 complete
 
 **Thoughts**:
 * Doing D3 for fun. I have to find balance between staying focused on my goals and exploring my curiousity. Doing so is the difference between burning out and being excited about what I'm doing.
