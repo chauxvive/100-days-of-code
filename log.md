@@ -1,15 +1,30 @@
 # 100 Days Of Code - Log
 
 #
+### Day 17 October 3rd, 2018, Wednesday
+45m remaining
+
+**Today's Progress**:
+
+* Data Analysis D3 on FreeCodeCamp
+  * 21/27 complete
+
+**Thoughts**:
+* D3eeeeeeeee. Good times. 
+
 ### Day 16 October 2nd, 2018, Tuesday
 
 **Today's Progress**:
 
 * Data Analysis D3 on FreeCodeCamp
   * 16/27 complete
+  * can't wait to build more interesting projects with D3- it's a highly visual language which I like.
+* lighthouse labs 21 days of code challenges
+  * day one complete. Welp, that was easy.
+* reading up on Flutter and Dart
 
 **Thoughts**:
-* Doing D3 for fun. I have to find balance between staying focused on my goals and exploring my curiousity. Doing so is the difference between burning out and being excited about what I'm doing.
+* Doing D3 for fun. I have to find balance between staying focused on my goals and exploring my curiousity. Doing so is the difference between burning out and being excited about what I'm doing. Still no FCC forum open. Maybe that's a good thing.
 
 ### Day 15 October 1st, 2018, Monday
 
@@ -18,7 +33,7 @@
 * React/Redux on FreeCodeCamp
   * 8/10 complete
 * Wrote an article for FreeCodeCamp's guide (Basic CSS: "Adding a negative margin")
-  * This is my very first pull request! I have lots to get used to.
+  * This is my very first pull request! I have lots to get used to. 4 more to get a tshirt!
 
 **Thoughts**:
 FreeCodeCamp forum is down today :( trying to figure out the penultimate problem...After fighting with it for 30m I'm going to attack it more tonight. (Nope, still down.) I went ahead and wrote my first article for FCC though and thus made my first pull request. 4 to go before a free tshirt- Happy #Hacktober, everyone!
