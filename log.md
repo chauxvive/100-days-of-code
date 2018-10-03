@@ -2,12 +2,16 @@
 
 #
 ### Day 17 October 3rd, 2018, Wednesday
-45m remaining
+30m remaining
 
 **Today's Progress**:
 
 * Data Analysis D3 on FreeCodeCamp
   * 21/27 complete
+* Lighthouse Labs 21 days of code
+ * Day 2 complete. Whew, easy is nice.
+* FreeCodeCamp React/Redux
+ * 10/10 complete yaaaaaas. I found the one syntax error I had made. 
 
 **Thoughts**:
 * D3eeeeeeeee. Good times. 
