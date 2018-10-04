@@ -11,8 +11,8 @@
 * Lighthouse Labs 21 days of code
   * Day 3 complete and I am ANGRY about poor testing mechanisms. I had 6 different correct ways of doing this rejected and no testing information. Gahhh! This was a VERY easy problem that took a long time.
 * Sacked up and asked one of my newhaven.io slack channels about looking over my portfolio.
- * Tom responded immediately, asked me to DM him, and disappeared. I have faith.
- * I'm at the "getting job invites I'm totally not qualified for on linked in" phase of job hunting
+  * Tom responded immediately, asked me to DM him, and disappeared. I have faith.
+  * I'm at the "getting job invites I'm totally not qualified for on linked in" phase of job hunting
 * Podcasts: lots of Syntax, JSparty, Tim Ferris (on dropbox), and product hunt. I've definitely been on a big Y-combinator binge. I am really interested in the Startup scene. Also, took my first hesitating steps on the Robinhood app. Good place to play around and learn. 
 
 ### Day 17 October 3rd, 2018, Wednesday
