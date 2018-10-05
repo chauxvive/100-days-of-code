@@ -1,18 +1,28 @@
 # 100 Days Of Code - Log
 
 #
+### Day 20 October 6th, 2018, Saturday
+1hr remaining
+
+**Today's Progress**:
+* Data Analysis D3 on FreeCodeCamp
+  * 29/29 complete, done with D3. Looking forward to playing with that more in the future.
+* Lighthouse Labs 21 days of code
+  * Day 4 complete. Easy-peasy once I understood you're supposed to leave your old functions...
+
+**Thoughts**:
+* Progress is small but feels really good. Looking over the upcoming GoogleDev fest, I see I should learn mostly flutter and touch on Vue. And look up Google Actions, which I know literally nothing about. Ideally I'll have folks looking over my stuff early next week so I can make sure it doesn't look like trash by the time of the DevFest (since right now, I'm not entirely sure what trash looks like!) Right now I have stuff spread between github, my codepens, and my portfolio page (which needs updating) and so I feel like I'm all over the place. 
 
 ### Day 19 October 5th, 2018, Friday
 
 **Today's Progress**:
-
 * Data Analysis D3 on FreeCodeCamp
-  * 23/27 complete
+  * 24/29 complete
 * Lighthouse Labs 21 days of code
   * Day 4 complete. Easy-peasy once I understood you're supposed to leave your old functions...
 * My second pull request to FreeCodeCamp's guide was merged and I can see the new page in the guide! I made my first contribution to open source! I am very excited.
-* Wrote a third article for the guide: "Add rounded corners with border-radius"
-  * I like writing these and it really adds to my completeist tendencies to help them finish a project I used heavily. I wish my open source contributions featured more heavily on my git profile... perhaps I just don't see them. That's 3/5 for #Hacktoberfest!  
+* Wrote a third article for the guide: "Add rounded corners with border-radius" and 4th article: "Adding different margin sizes to each side of an element"
+  * I like writing these and it really adds to my completeist tendencies to help them finish a project I used heavily. I wish my open source contributions featured more heavily on my git profile... perhaps I just don't see them. That's 4/5 for #Hacktoberfest!  
 
 **Thoughts**:
 * Progress is small but feels really good. Looking over the upcoming GoogleDev fest, I see I should learn mostly flutter and touch on Vue. And look up Google Actions, which I know literally nothing about. Ideally I'll have folks looking over my stuff early next week so I can make sure it doesn't look like trash by the time of the DevFest (since right now, I'm not entirely sure what trash looks like!) Right now I have stuff spread between github, my codepens, and my portfolio page (which needs updating) and so I feel like I'm all over the place. 
