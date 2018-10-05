@@ -3,10 +3,11 @@
 #
 
 ### Day 19 October 5th, 2018, Friday
-30m remaining 
 
 **Today's Progress**:
 
+* Data Analysis D3 on FreeCodeCamp
+  * 23/27 complete
 * Lighthouse Labs 21 days of code
   * Day 4 complete. Easy-peasy once I understood you're supposed to leave your old functions...
 * My second pull request to FreeCodeCamp's guide was merged and I can see the new page in the guide! I made my first contribution to open source! I am very excited.
@@ -23,7 +24,7 @@ On a personal note, it's been five blessed years since dad's open heart surgery,
 **Today's Progress**:
 
 * Data Analysis D3 on FreeCodeCamp
-  * 21/27 complete
+  * 22/27 complete
 * Lighthouse Labs 21 days of code
   * Day 3 complete and I am ANGRY about poor testing mechanisms. I had 6 different correct ways of doing this rejected and no testing information. Gahhh! This was a VERY easy problem that took a long time.
 * Wrote another article for FreeCodeCamp guide for #Hacktoberfest open source.
