@@ -3,16 +3,18 @@
 #
 
 ### Day 19 October 5th, 2018, Friday
-1hr remaining 
+30m remaining 
 
 **Today's Progress**:
 
 * Lighthouse Labs 21 days of code
-  * Day 3 complete and I am ANGRY about poor testing mechanisms. I had 6 different correct ways of doing this rejected and no testing information. Gahhh! This was a VERY easy problem that took a long time.
-* Wrote another article for FreeCodeCamp guide for #Hacktoberfest open source.
+  * Day 4 complete. Easy-peasy once I understood you're supposed to leave your old functions...
+* My second pull request to FreeCodeCamp's guide was merged and I can see the new page in the guide! I made my first contribution to open source! I am very excited.
+* Wrote a third article for the guide: "Add rounded corners with border-radius"
+  * I like writing these and it really adds to my completeist tendencies to help them finish a project I used heavily. I wish my open source contributions featured more heavily on my git profile... perhaps I just don't see them.
 
 **Thoughts**:
-* Things are making sense and I feel a lot more like "part of the community". I understand a whole lot more about what's going on around me than I did, say, a few months ago. Podcasts, twitter, and meetups help a lot. There's a lot of jargon to get used to in a field that moves fast - fortunately, I learn fast and am comfortable with uncertainty.
+* Progress is small but feels really good.
 
 ### Day 18 October 4th, 2018, Thursday
 
