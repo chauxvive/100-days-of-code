@@ -2,13 +2,14 @@
 
 #
 ### Day 20 October 6th, 2018, Saturday
-30m remaining
+15m remaining
 
 **Today's Progress**:
 * Data Analysis D3 on FreeCodeCamp
   * 29/29 complete, done with D3. Looking forward to playing with that more in the future. now on to..
 * JSON and APIs on FreeCodeCamp (yay, something I've worked with before)
   * 2/9 complete
+* set up android studio for flutter  
 * Lighthouse Labs 21 days of code
 
 **Thoughts**:
