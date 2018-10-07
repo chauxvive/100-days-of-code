@@ -1,19 +1,33 @@
 # 100 Days Of Code - Log
 
 #
-### Day 20 October 6th, 2018, Saturday
-15m remaining
+### Day 21 October 7th, 2018, Sunday
+45m remaining
 
 **Today's Progress**:
 * Data Analysis D3 on FreeCodeCamp
   * 29/29 complete, done with D3. Looking forward to playing with that more in the future. now on to..
 * JSON and APIs on FreeCodeCamp (yay, something I've worked with before)
-  * 2/9 complete
-* set up android studio for flutter  
+  * 5/9 complete  
 * Lighthouse Labs 21 days of code
 
 **Thoughts**:
-* Progress is small but feels really good. Looking over the upcoming GoogleDev fest, I see I should learn mostly flutter and touch on Vue. And look up Google Actions, which I know literally nothing about. Ideally I'll have folks looking over my stuff early next week so I can make sure it doesn't look like trash by the time of the DevFest (since right now, I'm not entirely sure what trash looks like!) Right now I have stuff spread between github, my codepens, and my portfolio page (which needs updating) and so I feel like I'm all over the place. 
+* Up in Maine today, got a bit of this done early last night because I was on a roll. Completing tomorrow's worth will be tough but I'll work it out.
+
+
+### Day 20 October 6th, 2018, Saturday
+
+**Today's Progress**:
+* Data Analysis D3 on FreeCodeCamp
+  * 29/29 complete, done with D3. Looking forward to playing with that more in the future. now on to..
+* JSON and APIs on FreeCodeCamp (yay, something I've worked with before)
+  * 5/9 complete
+* set up android studio for flutter  
+* Lighthouse Labs 21 days of code
+  * completed 5 in the clumsiest way possible (converting letters to numbers with a giant switch statement, ouch.) I'll read up to find a better solution later, but complete first, refactor after right?
+
+**Thoughts**:
+* Up in Maine today, got a bit of this done early last night because I was on a roll. Completeing tomorrow's worth will be tough but I'll work it out.
 
 ### Day 19 October 5th, 2018, Friday
 
