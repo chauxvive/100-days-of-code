@@ -1,18 +1,15 @@
 # 100 Days Of Code - Log
 
 #
-### Day 21 October 7th, 2018, Sunday
-45m remaining
+### Day 21 October 7th/October12, 2018, Sunday/Friday
 
 **Today's Progress**:
-* Data Analysis D3 on FreeCodeCamp
-  * 29/29 complete, done with D3. Looking forward to playing with that more in the future. now on to..
-* JSON and APIs on FreeCodeCamp (yay, something I've worked with before)
-  * 5/9 complete  
-* Lighthouse Labs 21 days of code
+* Finished #Hacktoberfest
+  * Wrote a lovely FreeCodeCamp article only to find the repo was read-only and ignored my pull request. Hopefully it will open back up- maybe they're inundated from Hacktober.
+  * After a lot of fruitless research into other options, bunted with a "first contributions" repo. I have a gnarly migraine tonight I can't seem to lose so this is the best I can do today.
 
 **Thoughts**:
-* Up in Maine today, got a bit of this done early last night because I was on a roll. Completing tomorrow's worth will be tough but I'll work it out.
+* Up in Maine today, got a bit of this done early last night because I was on a roll. Completing tomorrow's worth will be tough but I'll work it out. Update: took a few days off. Don't regret it because I was so sick and burnt out. I feel way fresher after a few evenings "off" (hardly, but code free), even with this migraine. Hope I can get back on the wagon with Lighthouse Labs etc tomorrow. I have been doing a lot of reading about code and security anyway. I am many tweets behind, ha.
 
 
 ### Day 20 October 6th, 2018, Saturday
