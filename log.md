@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 #
+### Day 22 October 13, 2018, Saturday
+30m remaining
+
+**Today's Progress**:
+* FreeCodeCamp APIs and Microservices:
+  * NPM 10/10 completed (this is very familiar to me which is good)
+  * Node 3/12 completed (in fact, so far everything else here looks very familiar, for better and worse. Thanks, Treehouse.)
+
+**Thoughts**:
+* Up in Maine today, got a bit of this done early last night because I was on a roll. Completing tomorrow's worth will be tough but I'll work it out. Update: took a few days off. Don't regret it because I was so sick and burnt out. I feel way fresher after a few evenings "off" (hardly, but code free), even with this migraine. Hope I can get back on the wagon with Lighthouse Labs etc tomorrow. I have been doing a lot of reading about code and security anyway. I am many tweets behind, ha. Good thing I've worked with JSON before because this set of lessons was a lot of copy & paste- not a great way to learn. (Watched "Black Panther" finally- what a great movie.)
+
 ### Day 21 October 7th/October12, 2018, Sunday/Friday
 
 **Today's Progress**:
