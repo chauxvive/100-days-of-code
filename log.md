@@ -7,9 +7,14 @@
 * Finished #Hacktoberfest
   * Wrote a lovely FreeCodeCamp article only to find the repo was read-only and ignored my pull request. Hopefully it will open back up- maybe they're inundated from Hacktober.
   * After a lot of fruitless research into other options, bunted with a "first contributions" repo. I have a gnarly migraine tonight I can't seem to lose so this is the best I can do today.
+* JSON and APIs on FreeCodeCamp (yay, something I've worked with before)
+  * 9/9 complete
+* FCC Front End Libraries Cert Projects
+  * started Markdown Previewer (very very very beginning)
+  * Awfully tempted to go through Wes Bos' 30 days of JavaScript, I do know some of these are on there- well, I'll start on my own. I think I understand this stuff enough to get far and it will feel better if I don't have help, even if it's only at first.
 
 **Thoughts**:
-* Up in Maine today, got a bit of this done early last night because I was on a roll. Completing tomorrow's worth will be tough but I'll work it out. Update: took a few days off. Don't regret it because I was so sick and burnt out. I feel way fresher after a few evenings "off" (hardly, but code free), even with this migraine. Hope I can get back on the wagon with Lighthouse Labs etc tomorrow. I have been doing a lot of reading about code and security anyway. I am many tweets behind, ha.
+* Up in Maine today, got a bit of this done early last night because I was on a roll. Completing tomorrow's worth will be tough but I'll work it out. Update: took a few days off. Don't regret it because I was so sick and burnt out. I feel way fresher after a few evenings "off" (hardly, but code free), even with this migraine. Hope I can get back on the wagon with Lighthouse Labs etc tomorrow. I have been doing a lot of reading about code and security anyway. I am many tweets behind, ha. Good thing I've worked with JSON before because this set of lessons was a lot of copy & paste- not a great way to learn. (Watched "Black Panther" finally- what a great movie.)
 
 
 ### Day 20 October 6th, 2018, Saturday
