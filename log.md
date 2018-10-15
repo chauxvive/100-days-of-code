@@ -6,12 +6,11 @@
 
 **Today's Progress**:
 * GitHub revamp phase 1 started
- * planning/overview
- * Removed old forks and other junk 
- * created new folders locally to create versions of my codepens.
+  * planning/overview
+  * Removed old forks and other junk 
+  * created new folders locally to create versions of my codepens.
 * FreeCodeCamp APIs and Microservices:
-  * Node 3/12 completed 
-*   
+  * Node 3/12 completed    
 
 **Thoughts**:
 * Never talked about my very sobering chat with a friend/recruiter about my portfolio- I had envisioned an informal chat back and forth about where I was and where I was going, but instead he just glanced at my portfolio/git/codepen and laid down some tough love. You mean my git streak doesn't really matter- my content does? You mean I need ReadMes for all of my work to explain what I've done in a concise way?? (Ahhhhh!) So many incredibly obvious things, in retrospect, that I've blazed right on past, thinking I'd always be able to talk through my work. I have vast work to do to get it where I'd like to. I have another lunch meeting coming up this week with someone else, so I hope I can get a lot of reboot done by then.
