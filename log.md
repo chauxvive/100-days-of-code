@@ -1,8 +1,22 @@
 # 100 Days Of Code - Log
 
 #
+### Day 23 October 14, 2018, Sunday
+45m remaining
+
+**Today's Progress**:
+* GitHub revamp phase 1 started
+ * planning/overview
+ * Removed old forks and other junk 
+ * created new folders locally to create versions of my codepens.
+* FreeCodeCamp APIs and Microservices:
+  * Node 3/12 completed 
+*   
+
+**Thoughts**:
+* Never talked about my very sobering chat with a friend/recruiter about my portfolio- I had envisioned an informal chat back and forth about where I was and where I was going, but instead he just glanced at my portfolio/git/codepen and laid down some tough love. You mean my git streak doesn't really matter- my content does? You mean I need ReadMes for all of my work to explain what I've done in a concise way?? (Ahhhhh!) So many incredibly obvious things, in retrospect, that I've blazed right on past, thinking I'd always be able to talk through my work. I have vast work to do to get it where I'd like to. I have another lunch meeting coming up this week with someone else, so I hope I can get a lot of reboot done by then.
+
 ### Day 22 October 13, 2018, Saturday
-30m remaining
 
 **Today's Progress**:
 * FreeCodeCamp APIs and Microservices:
@@ -10,7 +24,7 @@
   * Node 3/12 completed (in fact, so far everything else here looks very familiar, for better and worse. Thanks, Treehouse.)
 
 **Thoughts**:
-* Up in Maine today, got a bit of this done early last night because I was on a roll. Completing tomorrow's worth will be tough but I'll work it out. Update: took a few days off. Don't regret it because I was so sick and burnt out. I feel way fresher after a few evenings "off" (hardly, but code free), even with this migraine. Hope I can get back on the wagon with Lighthouse Labs etc tomorrow. I have been doing a lot of reading about code and security anyway. I am many tweets behind, ha. Good thing I've worked with JSON before because this set of lessons was a lot of copy & paste- not a great way to learn. (Watched "Black Panther" finally- what a great movie.)
+* This was all pretty straightforward and familiar. Plowing through easily, which is nice. We were up in Salem, MA, today for Halloween.
 
 ### Day 21 October 7th/October12, 2018, Sunday/Friday
 
