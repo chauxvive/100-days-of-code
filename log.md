@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 #
+
+### Day 24 October 22, 2018, Monday
+
+**Today's Progress**:
+* FreeCodeCamp APIs and Microservices:
+  * Node 4/10 completed
+   
+
+**Thoughts**:
+* Yep, it's a week later. I've been sick and working my tail off. I know the next few weeks are going to be like that and since we have some financial issues to deal with, money has to be my top priority. On the other hand, Google DevFest CT is Saturday and I'm panicking. Between the show I'm TDing and trying to build (Cabaret), Halloween prep (party is also Saturday), and DevFest this week is bananas.
+
+
 ### Day 23 October 14, 2018, Sunday
 
 **Today's Progress**:
