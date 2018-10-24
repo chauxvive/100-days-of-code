@@ -2,16 +2,19 @@
 
 #
 ### Day 27 October 24, 2018, Wednesday
-1 hr remaining
 
 **Today's Progress**:
-* FreeCodeCamp APIs and Microservices:
+* FreeCodeCamp JavaScript Algorithms:
+  * Cash Register Problem
+* Github revamp:
+  * created a github.io repo (put my portfolio in there for now)
+  * added Feynman Project
+  * read about and saw examples of beautiful ReadMes. I know good looking documentation is another easy way to stand out.
 
 **Thoughts**:
-* Eager to finish up this section and move on to goals for the week: Learn Flutter and create a small demo project, 
+* Back to the dreaded Cash Register Problem. I really feel like I'm just beating my head against a wall on this one. I know that the head-beating is needed if I'm ever going to finish the thing. I hate that I have so much practice with JavaScript at this point and am still confused on this problem. 
 
 **Links to work:**
-
 1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
 
 
