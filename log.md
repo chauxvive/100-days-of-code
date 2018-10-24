@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 #
+### Day 28 October 25, 2018, Thursday
+
+**Today's Progress**:
+* FreeCodeCamp APIs and Microservices:
+  * Node 12/12 completed 
+
+**Thoughts**:
+* Eager to finish up this section and move on to goals for the week: Learn Flutter and create a small demo project, update my portfolio, and ...uh...many other things. Yikes, pretty ambitious.
+
+**Links to work:**
+
+1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
+
 ### Day 27 October 24, 2018, Wednesday
 
 **Today's Progress**:
@@ -10,12 +23,14 @@
   * created a github.io repo (put my portfolio in there for now)
   * added Feynman Project
   * read about and saw examples of beautiful ReadMes. I know good looking documentation is another easy way to stand out.
+  * created a really nice ReadMe for the Feynman project. I will be keeping the other documentation to at least that high of a standard.
 
 **Thoughts**:
 * Back to the dreaded Cash Register Problem. I really feel like I'm just beating my head against a wall on this one. I know that the head-beating is needed if I'm ever going to finish the thing. I hate that I have so much practice with JavaScript at this point and am still confused on this problem. 
 
 **Links to work:**
 1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
+2. [Feynman Project ReadMe](https://github.com/chauxvive/FeynmanTributePage/blob/master/README.md)
 
 
 ### Day 26 October 23, 2018, Tuesday
