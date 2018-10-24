@@ -1,16 +1,59 @@
 # 100 Days Of Code - Log
 
 #
-
-### Day 24 October 22, 2018, Monday
+### Day 27 October 24, 2018, Wednesday
+1 hr remaining
 
 **Today's Progress**:
 * FreeCodeCamp APIs and Microservices:
-  * Node 4/10 completed
-   
+
+**Thoughts**:
+* Eager to finish up this section and move on to goals for the week: Learn Flutter and create a small demo project, 
+
+**Links to work:**
+
+1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
+
+
+### Day 26 October 23, 2018, Tuesday
+
+**Today's Progress**:
+* FreeCodeCamp APIs and Microservices:
+  * Node 12/12 completed 
+
+**Thoughts**:
+* Eager to finish up this section and move on to goals for the week: Learn Flutter and create a small demo project, update my portfolio, and ...uh...many other things. Yikes, pretty ambitious.
+
+**Links to work:**
+
+1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
+
+### Day 25 October 22, 2018, Monday
+
+**Today's Progress**:
+* FreeCodeCamp APIs and Microservices:
+  * Node 9/12 completed 
+
+**Thoughts**:
+* This stuff is familiar but explained in kind of a weird fashion- if I hadn't seen this material before I'd be super confused. Sometimes I still am- then I figure it out and I'm like "Ohhhhhh THAT'S what you wanted? Why didn't you just say so?" I should really be working on projects/learning new tech like flutter for Saturday/making my github better instead of punching through these exercises buuuuuuut... for one thing I'm a little nervous about Dart. I never found Java especially intuitive! Maybe if I pretend it's a Stranger Things reference...
+
+**Links to work:**
+
+1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
+
+
+### Day 24 October 21, 2018, Sunday
+
+**Today's Progress**:
+* FreeCodeCamp APIs and Microservices:
+  * Node 7/12 completed
 
 **Thoughts**:
 * Yep, it's a week later. I've been sick and working my tail off. I know the next few weeks are going to be like that and since we have some financial issues to deal with, money has to be my top priority. On the other hand, Google DevFest CT is Saturday and I'm panicking. Between the show I'm TDing and trying to build (Cabaret), Halloween prep (party is also Saturday), and DevFest this week is bananas.
+
+**Links to work:**
+
+1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
 
 
 ### Day 23 October 14, 2018, Sunday
@@ -143,7 +186,7 @@ On a personal note, it's been five blessed years since dad's open heart surgery,
 **Thoughts**:
 FreeCodeCamp forum is down today :( trying to figure out the penultimate problem...After fighting with it for 30m I'm going to attack it more tonight. (Nope, still down.) I went ahead and wrote my first article for FCC though and thus made my first pull request. 4 to go before a free tshirt- Happy #Hacktober, everyone!
 
-**Links to work:**
+
 
 ### Day 14 September 29, 2018, Sunday
 
@@ -155,7 +198,6 @@ FreeCodeCamp forum is down today :( trying to figure out the penultimate problem
 **Thoughts**:
 Durham fair weekend! Ok, some Redux/React stuff I'm getting really clearly and some is still fuzzy (dispatching, for example) but I guess I'll give it time and practice.
 
-**Links to work:**
 
 ### Day 13 September 28, 2018, Saturday
 
@@ -166,8 +208,6 @@ Durham fair weekend! Ok, some Redux/React stuff I'm getting really clearly and s
 
 **Thoughts**:
 Durham fair weekend! Feeling good about React/Redux. I spent some time staring at and thinking about my JS cash register problem but haven't made meaningful progress on it. Talked to a coder friend about React, Flutter, Google, and getting work. He's going to talk to some friends at Google in NYC which would be freaking sweet. Better hustle my tail here, huh?
-
-**Links to work:**
 
 
 ### Day 12 September 27, 2018, Friday
@@ -182,7 +222,6 @@ Durham fair weekend! Feeling good about React/Redux. I spent some time staring a
 **Thoughts**:
 Beautiful weather today. Finished reading "Salem's Lot". 'Tis the season, well, almost. Following lots of interesting people on Twitter- it's a great community for coders. Five problems to go on this section, but I'm losing track of why I'm doing what I'm doing. I will need to find auxilary places to read up on this.
 
-**Links to work:**
 
 ### Day 11 September 27, 2018, Thursday
 
@@ -196,7 +235,6 @@ Beautiful weather today. Finished reading "Salem's Lot". 'Tis the season, well, 
 **Thoughts**:
 Getting sick which really sucks. Cancelled my shop hours and dinner with friends. Trying to super-hydrate. Starting Redux! Yay! ...not sure exactly what Redux is or is FOR yet, also should watch some vids to better understand exactly what React is great at, while I'm at it. It's one thing to know how, but for people like me, knowing why is the only way we really understanding things. Finished reading "Lean In". Following lots of interesting people on Twitter- it's a great community for coders. My first 7 day git streak. The Durham fair starts today! Finished reading "Lean In". 
 
-**Links to work:**
 
 ### Day 10 September 26, 2018, Wednesday
 
@@ -209,9 +247,6 @@ Getting sick which really sucks. Cancelled my shop hours and dinner with friends
 * Day 10, that's ten percent right? That's like, a meaningful portion? Coding is going well but I haven't been able to dedicate as much time and effort as I would like and still keep up with my day job and thousand life tasks (hey self, how are those taxes going? did you reregister to vote? How about Brian getting a new car? Do you know what you're doing for his birthday yet? How about Halloween??) Still, it's going. Got to keep pushing on.
 
 Dad had to put his dog down today and so I had to stop everything and go up there. I feel terrible for him and his fiancee.
-
-
-**Links to work:**
 
 
 ### Day 9 September 25, 2018, Tuesday
