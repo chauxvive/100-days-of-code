@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 #
+### Day 29 November 17, 2018, Saturday
+
+**Today's Progress**:
+* FreeCodeCamp JavaScript Algorithms:
+ * STILL FIGHTING WITH CASH REGISTER. Spent three hours working on it. I can't describe how frustrating I find this problem. It has literally had me stuck for months and I despise it. I finally posted something carefully written and heavily researched on StackExchange only to get it immediately downvoted. Why answer a beginner's question when you can just downvote it and call it stupid, right? I've also asked about it on twitter (crickets) and slack (also crickets.) I know it's down to a floating number issue and I just can't get it to work. I can't stand being stuck this hard and long on the same problem- it's been literally months.
+ * FreeCodeCamp Front End Libraries certification:
+  * Restarted my markdown previewer. Looking forward to building this. It's simple and makes so much sense.
+
+**Thoughts**:
+* I knew I'd have to take a break for a few weeks to build "Cabaret": basically earning my semester's worth of pay in a few weeks. I'm back coding with a vengence. I am not starting from scratch on this challenge.
+
+**Links to work:**
+
+1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
+
 ### Day 28 October 25, 2018, Thursday
 
 **Today's Progress**:
