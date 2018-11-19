@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 #
+### Day 30 November 18, 2018, Sunday
+
+**Today's Progress**:
+* FreeCodeCamp JavaScript Algorithms:
+  * Cash Register: After the height of frustration last night and some slogging through this morning, holy crap, I FIGURED IT OUT. The last thing I needed for my JavaScript cert! --Wait. No. 15 algorithms left I somehow completely missed. Whatever, I can totally get these- they aren't nearly so hard as the cash register. Already got one done (wherefore) and one well on the way (spinecase).
+ * FreeCodeCamp Front End Libraries certification:
+   * Continued working on the React parts of my markdown viewer. Definitely getting somewhere but not done yet. Going through my React exercises as a kind of notes- it's coming back to me, slowly. I think I need to improve my notetaking when I'm dealing with tools I don't use that frequently. I'm not used to needing them, but coding has so many APIs to remember that I may not use often yet.
+
+**Thoughts**:
+* Cranking this out during the final run of Cabaret. I couldn't believe I finally solved that problem- I knew I was very close this morning and it gave me great hope. Still, that satisfaction when the complete sign appeared--! AND I finished reading "Berlin Stories" during the run as well, which had been a goal of mine. (finish the book "Cabaret" is based upon before the end of the run.)
+
+**Links to work:**
+
+1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
+
 ### Day 29 November 17, 2018, Saturday
 
 **Today's Progress**:
