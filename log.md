@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 #
+### Day 31 November 27, 2018, Tuesday
+
+**Today's Progress**:
+* FreeCodeCamp JavaScript Algorithms:
+  * Spinal Case: Completed this after heavy regex review. Wow, I hate how often I need reminders of how regex works. Glad I pushed through and found an elegant solution, however, did NOT understand capture groups and they're so powerful!
+  * Search And Replace: Good thing I reviewed that regex, huh? Completed.
+  * Missing Letters: started. 13 left including this one. Can't believe I missed these all this time.
+  
+**Thoughts**:
+* There have been some VERY interesting developments here at home that have kept us busy along with the holidays, but here I am back at coding. I'm determined to get thirty rejections by new year's which is going to mean a whole lot of work. I have to get a placement by spring, no longer negotiable. I believe, however, that I can do it!
+
+**Links to work:**
+
+1. [Node and Express practice for FCC](https://small-apology.glitch.me/)
+
 ### Day 30 November 18, 2018, Sunday
 
 **Today's Progress**:
