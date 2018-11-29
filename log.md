@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
 #
+### Day 33 November 29, 2018, Thursday
+
+**Today's Progress**:
+* GitHub profile
+  * Finished adding projects (except virtual costume museum, still need to figure out that one)
+  * Finished giving them all super nice ReadMes. Very happy with these.
+
+**Thoughts**:
+* Getting it early this morning, been working for several hours getting my GitHub looking really nice and it's not yet noon. What should I work on next, Virtual Costume Museum? Markdown Previewer? JavaScript Algorithms? I should probably be doing at least one JS algorithm daily. I also need to give myself a little cooldown time after working hard- going to bed without reading for 20 minutes is like ending a hard run without a cooldown: not a good plan. I have that meeting early tomorrow morning in New Haven, though, and I really need to be ready. 
+
+**Links to work:**
+
+1. [Feynman Tribute Page](https://github.com/chauxvive/FeynmanTributePage)
+2. [Responsive Product Page](https://github.com/chauxvive/ResponsiveProductPage)
+3. [Portfolio](https://github.com/chauxvive/chauxvive.github.io)
+4. [Buffy Quote Generator](https://github.com/chauxvive/BuffyQuoteMachine)
+5. [React Technical Documentation](https://github.com/chauxvive/ReactTechnicalDocumentation)
+
+
 ### Day 32 November 28, 2018, Wednesday
 
 **Today's Progress**:
