@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
 #
+### Day 32 November 28, 2018, Wednesday
+
+**Today's Progress**:
+* FreeCodeCamp JavaScript Algorithms:
+  * worked on "Missing Letters" and "Sorted Union" learned a lot but definitely stuck. Did a codewars kata instead.
+* Codewars Kata 
+  * solved 8kyu "count positives, sum negatives". Very simple but I clearly needed a refresher so this works. I'm going to be doing a bunch of these I think until I feel back on the JavaScript ball.
+* GitHub Portfolio
+  * OH MY GOSH. Have you ever accidently added the wrong thing to a git repo and everything goes to hell? Literally all my portfolio repos got mashed up. I learned a ton about git the hard way, like how to remove a remote origin, how to "allow empty" commits, how to revert commits, how to merge unrelated git repos.... It was several hours of stupid. Finally added a few more projects. Sometimes fixing your mistakes takes longer than the work you actually wanted to do- but at least it's fixed now. 
+  * Responsive Page: Added and spiffed up Responsive Page to github. Wow, this doesn't look amazing on full desktop (mobile first, right?) I was so proud of it but I see I have work to do. 
+  
+**Thoughts**:
+* Tonight was painful but had to be done. Same with reviewing core JavaScript. The truth is I just have to work really hard. As someone who has had the luck to learn and do so many things easily, JavaScript and coding in general has been a challenge in grit. Want me to sight-read a Beethoven Sonata in from of 100 people? Sure, why not? Want me to design and build a two story set that supports a pit orchestra (about 1500lbs) without crossbracing? I'm up to the challenge! Want me to have a basic conversation with a native in a language I don't know in two hours? Game on! Want me to learn a sport? Let's do this! How about learning a complicated math or science concept and teaching it to a class? Sure. Here's some new software we found but the manual's in chinese- can you get it to work? Yeah, probably! But ask me to solve this JavaScript whiteboarding problem and I freeze. I just have to "Go slow and do it again" until I get it. I just have to work hard. It's ok, though, because I know it's worth it. I'm not giving up.
+
+**Links to work:**
+
+1. [Feynman Tribute Page](https://github.com/chauxvive/FeynmanTributePage)
+2. [Responsive Product Page](https://github.com/chauxvive/ResponsiveProductPage)
+3. [Portfolio](https://github.com/chauxvive/portfolio)
+
+
 ### Day 31 November 27, 2018, Tuesday
 
 **Today's Progress**:
