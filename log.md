@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 #
+### Day 34 November 30, 2018, Friday
+
+**Today's Progress**:
+* Meeting with senior developer (Tom at Heroku)
+  * Tom was great and a valuable meeting. He's suggesting I get some Rails projects under my belt, so that's what I'm doing now.
+  * starting with the Odin project, because I know it's Rails-based- but they're heavily baised against Windows (I get it but it's a bummer) We'll see how it goes.
+  
+
+**Thoughts**:
+* I am on it today, working early until late.
+
 ### Day 33 November 29, 2018, Thursday
 
 **Today's Progress**:
