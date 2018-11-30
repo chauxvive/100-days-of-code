@@ -7,9 +7,10 @@
 * GitHub profile
   * Finished adding projects (except virtual costume museum, still need to figure out that one)
   * Finished giving them all super nice ReadMes. Very happy with these.
+  * Went through troubleshooting all kinds of stuff in these tonight
 
 **Thoughts**:
-* Getting it early this morning, been working for several hours getting my GitHub looking really nice and it's not yet noon. What should I work on next, Virtual Costume Museum? Markdown Previewer? JavaScript Algorithms? I should probably be doing at least one JS algorithm daily. I also need to give myself a little cooldown time after working hard- going to bed without reading for 20 minutes is like ending a hard run without a cooldown: not a good plan. I have that meeting early tomorrow morning in New Haven, though, and I really need to be ready. 
+* Getting it early this morning, been working for several hours getting my GitHub looking really nice and it's not yet noon. What should I work on next, Virtual Costume Museum? Markdown Previewer? JavaScript Algorithms? I should probably be doing at least one JS algorithm daily. I also need to give myself a little cooldown time after working hard- going to bed without reading for 20 minutes is like ending a hard run without a cooldown: not a good plan. I have that meeting early tomorrow morning in New Haven, though, and I  need to be ready. 
 
 **Links to work:**
 
@@ -18,6 +19,7 @@
 3. [Portfolio](https://github.com/chauxvive/chauxvive.github.io)
 4. [Buffy Quote Generator](https://github.com/chauxvive/BuffyQuoteMachine)
 5. [React Technical Documentation](https://github.com/chauxvive/ReactTechnicalDocumentation)
+6. [Survey Project](https://github.com/chauxvive/SurveyProject)
 
 
 ### Day 32 November 28, 2018, Wednesday
