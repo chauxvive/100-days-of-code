@@ -1,13 +1,38 @@
 # 100 Days Of Code - Log
 
 #
+### Day 36 December 3rd, 2018, Monday
+
+**Today's Progress**:
+* The Odin Project
+  * created ssh keys
+  * Whoa, deployed quick first app to Heroku! cool. I need to read up more on Heroku, especially since I know one of their devs now.
+
+**Thoughts**:
+* Feeling better today. Started working at 9 and am trucking through. The proverbial fraud police were definitely at my door all day yesterday insisting that I don't know what I'm doing, until I sort of broke down at night. I just have to keep going. I'll get a job eventually- it doesn't have to be this month. It doesn't even need to be next month. I just need to keep going and keep talking to people and telling them about what I do. I just need to be me- showcase the things I do well through code. I'm a great storyteller, a great teacher, a great designer. I love working on projects I'm passionate about, which is part of why I kept working on the virtual museum after the grant money ran out. It's ok.  
+
+**Links to work:**
+
+1. [Very first Ruby on Rails app on Heroku](https://desolate-peak-44366.herokuapp.com/cars)
+
+### Day 35 December 2nd, 2018, Sunday
+
+**Today's Progress**:
+* Job hunting
+  * Revised my resume 
+  * applied to two jobs, one local, one remote
+* The Odin Project
+  * Starting with Rails: installed ubuntu vm and ruby, made my first RoR scaffolded app (whoa)
+
+**Thoughts**:
+* Job hunting via the web is some of the most soul-sucking work I can think of. Definitely going to try and meet more developers to get work that way asap. Rails is powerful- Odin definitely starts you out in the deep end so we'll see how it goes. I should probably get more used to ubuntu and mac but...haven't yet... I will when I need to, I'm sure. I've done that with mac before.
+
 ### Day 34 November 30, 2018, Friday
 
 **Today's Progress**:
 * Meeting with senior developer (Tom at Heroku)
   * Tom was great and a valuable meeting. He's suggesting I get some Rails projects under my belt, so that's what I'm doing now.
   * starting with the Odin project, because I know it's Rails-based- but they're heavily baised against Windows (I get it but it's a bummer) We'll see how it goes.
-  
 
 **Thoughts**:
 * I am on it today, working early until late.
